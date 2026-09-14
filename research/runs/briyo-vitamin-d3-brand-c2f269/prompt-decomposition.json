@@ -1,0 +1,54 @@
+{
+  "sub_questions": [
+    "Who is Briyo as a company — founding, ownership, headquarters, size, parent company, India-based supplement brand details?",
+    "What manufacturing standards and quality controls does Briyo follow — GMP certification, FSSAI license, ISO, third-party testing?",
+    "How is the Vitamin D3 2000 IU product formulated — dosage appropriateness, bioavailability (softgel vs tablet), excipients, carrier oil quality?",
+    "What certifications and regulatory approvals does Briyo hold in India — FSSAI registration number, GMP, any international certifications?",
+    "What is Briyo's customer reputation — Amazon review ratings, common complaints, verified purchase feedback, return rate signals?",
+    "How does Briyo's Vitamin D3 compare to competing Indian supplement brands (HealthKart, Oziva, Himalayan Organics, NatureVit, etc.) on quality, price, and trustworthiness?",
+    "Are there any safety concerns, adverse reports, regulatory actions, or product recalls associated with Briyo?",
+    "What is the pricing and value proposition of Briyo Vitamin D3 2000 IU 90 Softgels relative to its quality tier?",
+    "Is Briyo an appropriate brand to feature as an Amazon Associates affiliate recommendation on a health protocols site?"
+  ],
+  "entities": [
+    {"name": "Briyo", "type": "brand", "required_fields": ["company_background", "founding", "headquarters", "ownership", "size"]},
+    {"name": "Vitamin D3 2000 IU - 90 Softgels", "type": "product", "required_fields": ["formulation", "bioavailability", "excipients", "dosage_appropriateness", "carrier_oil"]},
+    {"name": "Bone Health", "type": "claimed_benefit", "required_fields": ["scientific_support", "dosage_adequacy"]},
+    {"name": "Muscle Function", "type": "claimed_benefit", "required_fields": ["scientific_support", "dosage_adequacy"]},
+    {"name": "Immune Support", "type": "claimed_benefit", "required_fields": ["scientific_support", "dosage_adequacy"]},
+    {"name": "FSSAI", "type": "regulatory_body", "required_fields": ["license_status", "registration_number"]},
+    {"name": "GMP", "type": "certification", "required_fields": ["certification_status", "certifying_body"]},
+    {"name": "Amazon India", "type": "marketplace", "required_fields": ["rating", "review_count", "seller_type", "listing_details"]}
+  ],
+  "required_formats": [],
+  "required_sections": [],
+  "required_section_headings": [
+    "## 1. Brand Overview and Company Background",
+    "## 2. Product Formulation and Quality Assessment",
+    "## 3. Manufacturing Standards and Certifications",
+    "## 4. Customer Reviews and Market Reputation",
+    "## 5. Regulatory Compliance and Safety Record",
+    "## 6. Competitive Positioning and Value",
+    "## 7. Affiliate Recommendation Verdict"
+  ],
+  "time_horizons": ["2020-present"],
+  "time_periods": [],
+  "scope_conditions": [
+    "Indian supplement market context — FSSAI regulatory framework applies",
+    "Amazon India marketplace — affiliate context (45degrees45-21 Associate ID)",
+    "Consumer health supplement context — not pharmaceutical/clinical drug"
+  ],
+  "pipeline_tier": "full",
+  "response_format": "structured",
+  "citation_style": "wikilink",
+  "levers": {
+    "register": "survey",
+    "register_confidence": "high",
+    "domain_notes": "Sourcing strategy: Amazon India product page and reviews first (primary signal for affiliate context), then brand website, FSSAI database for regulatory verification, GMP certification records, supplement review blogs and consumer forums in India, competitor comparison sites. Strong evidence = FSSAI number verifiable in official database, GMP certificate from recognized certifying body, verified Amazon reviews (not fake). Recency window: 2022-present most relevant; Indian supplement market has changed significantly post-COVID with more brands entering.",
+    "inference_depth": "standard",
+    "rationale": {
+      "register": "query asks to 'research this brand' — coverage-shaped intelligence gathering for affiliate decision-making, no thesis requested",
+      "inference_depth": "brand has Amazon presence, likely has some online footprint; may need to dig for manufacturing quality details beyond marketing claims"
+    }
+  }
+}

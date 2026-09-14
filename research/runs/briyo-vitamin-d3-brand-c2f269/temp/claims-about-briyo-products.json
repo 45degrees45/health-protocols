@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "Briyo applies a four-stage quality testing process: raw material review before production, in-process checks during manufacturing, final release review, and ongoing stability testing.",
+    "stance": "supports",
+    "stance_target": "Briyo quality control rigor",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Brand-controlled website; self-reported process description",
+    "quoted_support": "Quality is reviewed before, during and after manufacturing — not only at the end.",
+    "numbers": ["4 testing stages"],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "about-briyo-products"
+  },
+  {
+    "claim": "Briyo tests each batch of raw materials for identity, purity, and potency before use in production, and reviews finished products for dosage accuracy, physical integrity, and appearance before release.",
+    "stance": "supports",
+    "stance_target": "Briyo ingredient discipline and finished-product standards",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Brand-controlled website; self-reported",
+    "quoted_support": "Ingredients and packaging components are reviewed before production for identity, potency, purity and relevant safety parameters. Before release, dosage accuracy, physical integrity, appearance and applicable performance parameters are reviewed.",
+    "numbers": [],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "about-briyo-products"
+  },
+  {
+    "claim": "Briyo's product formats include capsules, chewables (tablets), and single-serve sachets, designed for daily routine convenience.",
+    "stance": "neutral",
+    "stance_target": "Briyo product format diversity",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Brand-controlled website",
+    "quoted_support": "Capsules – Compact and easy to make part of a daily routine. Chewables – A convenient format made for simpler supplementation. Sachets – Precision-dosed servings for home, work or travel.",
+    "numbers": [],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "about-briyo-products"
+  },
+  {
+    "claim": "Briyo conducts stability testing to confirm products remain within specification throughout their stated shelf life.",
+    "stance": "supports",
+    "stance_target": "Briyo shelf-life assurance",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Brand-controlled website; self-reported",
+    "quoted_support": "Stability checks help confirm that products remain compliant with their specifications throughout the stated shelf life.",
+    "numbers": [],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "about-briyo-products"
+  }
+]

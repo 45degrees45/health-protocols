@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "The legal marketer entity is Briyo Supplements LLP (Vadodara, Gujarat) with FSSAI Marketer License 10723999000929, distinct from the original manufacturer Briyosis Soft Caps Pvt Ltd listed on Amazon.",
+    "stance": "neutral",
+    "stance_target": "Briyo brand legal entity and regulatory registration",
+    "evidence_type": "empirical",
+    "scope_conditions": "Brand website product label data, September 2026",
+    "quoted_support": "Marketer Details: Briyo Supplements LLP East Block, Flat 5, Ami Apartment, Race Course, Vadodara, Gujarat 390007 (Phone: +91 7069467779) — Marketer FSSAI: 10723999000929",
+    "numbers": ["FSSAI Marketer License 10723999000929"],
+    "entities": ["Briyo Supplements LLP", "Vadodara", "Gujarat"],
+    "time_period": "2026",
+    "region": "India (Gujarat)",
+    "confidence": "high",
+    "source_note_id": "vitamin-d3-2000-iu-chewable-tablets-grape-briyo-2"
+  },
+  {
+    "claim": "The manufacturer for the Briyo D3 chewable tablet variant is Vapi Care Pharma Pvt. Ltd. (Vapi, Gujarat) with FSSAI Licence No. 10720025000177, not Briyosis Soft Caps Pvt Ltd.",
+    "stance": "neutral",
+    "stance_target": "Briyo D3 manufacturing entity — relevant to verify GMP and FSSAI claims",
+    "evidence_type": "empirical",
+    "scope_conditions": "Brand website product label, September 2026 — note this applies to chewable variant; softgel manufacturer may differ",
+    "quoted_support": "Manufacturer Details: Vapi Care Pharma Pvt. Ltd. Regd. off & Plant: Plot No. 225/3, GIDC, Near Morarji Circle, Vapi - 396195, Gujarat, India. FSSAI Lic No.: 10720025000177",
+    "numbers": ["FSSAI Lic No. 10720025000177"],
+    "entities": ["Vapi Care Pharma Pvt. Ltd.", "Vapi", "Gujarat"],
+    "time_period": "2026",
+    "region": "India (Gujarat)",
+    "confidence": "high",
+    "source_note_id": "vitamin-d3-2000-iu-chewable-tablets-grape-briyo-2"
+  },
+  {
+    "claim": "A brand website reviewer raised concern about the absence of an independent third-party certificate of analysis for the Vitamin D3 2000 IU chewable product.",
+    "stance": "refutes",
+    "stance_target": "Briyo third-party testing transparency claims",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Single review on briyosupplements.com for chewable tablet variant, date not specified",
+    "quoted_support": "No third party certificate of the vit D3 2k, just rely on the label company saying it.",
+    "numbers": [],
+    "entities": ["briyosupplements.com"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "vitamin-d3-2000-iu-chewable-tablets-grape-briyo-2"
+  },
+  {
+    "claim": "Briyo D3 chewable variant has 21 customer reviews on its own website with 81% five-star ratings (17 of 21), compared with 484 Amazon India ratings at 4.4 stars.",
+    "stance": "supports",
+    "stance_target": "Briyo brand customer satisfaction across platforms",
+    "evidence_type": "statistical",
+    "scope_conditions": "Brand website reviews, September 2026",
+    "quoted_support": "Customer Reviews — Based on 21 reviews — 81% (17) five-star",
+    "numbers": ["21 reviews", "81% five-star", "17 five-star reviews"],
+    "entities": ["briyosupplements.com"],
+    "time_period": "September 2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "vitamin-d3-2000-iu-chewable-tablets-grape-briyo-2"
+  }
+]

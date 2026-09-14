@@ -1,0 +1,30 @@
+[
+  {
+    "claim": "FSSAI food adulteration complaints have risen sharply: 4,330 in 2022-23, 4,735 in 2023-24, and 7,705 in 2024-25 — indicating a growing food safety enforcement challenge in India.",
+    "stance": "neutral",
+    "stance_target": "Scale of food safety problems in India",
+    "evidence_type": "statistical",
+    "scope_conditions": "India, all food categories including supplements, 2022-2025",
+    "quoted_support": "More than 7,700 complaints related to food adulteration and safety were received in 2024-25, out of which nearly 6,000 have been resolved, the Parliament was informed.",
+    "numbers": ["4,330 (2022-23)", "4,735 (2023-24)", "7,705 (2024-25)", "5,952 resolved in 2024-25"],
+    "entities": ["FSSAI", "Lok Sabha", "India"],
+    "time_period": "2022-2025",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-received-over-7700-food-adulteration-complaints-in-2024-25nearly-6000-reso"
+  },
+  {
+    "claim": "FSSAI enforcement is decentralized: ground-level action is carried out by state food safety authorities (designated officers and FSOs), not FSSAI centrally, creating potential inconsistency across India's 28 states.",
+    "stance": "neutral",
+    "stance_target": "Effectiveness of India food safety enforcement",
+    "evidence_type": "legal",
+    "scope_conditions": "India, food safety enforcement structure",
+    "quoted_support": "Enforcement at the ground level is mainly carried out by state food safety authorities through designated officers and food safety officers.",
+    "numbers": [],
+    "entities": ["FSSAI", "Food Safety and Standards Act 2006"],
+    "time_period": "current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-received-over-7700-food-adulteration-complaints-in-2024-25nearly-6000-reso"
+  }
+]

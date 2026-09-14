@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "Briyo Supplements was founded by Janvi Patel, daughter of Briyosis Soft Caps Pvt. Ltd. founder Bharat R. Patel — Briyosis is explicitly stated as the parent company.",
+    "stance": "supports",
+    "stance_target": "Briyosis Soft Caps Pvt. Ltd. is the manufacturer behind the Briyo consumer brand",
+    "evidence_type": "historical",
+    "scope_conditions": "First India press release, authored by Janvi Patel (co-founder Briyo Supplements)",
+    "quoted_support": "Our story began with Briyosis, the parent company founded by my father. He laid the groundwork, and I joined the family business just before the COVID-19 pandemic.",
+    "numbers": [],
+    "entities": ["Janvi Patel", "Bharat R. Patel", "Briyosis Soft Caps Pvt. Ltd.", "Briyo Supplements"],
+    "time_period": "pre-COVID to present",
+    "region": "Vadodara, Gujarat, India",
+    "confidence": "high",
+    "source_note_id": "briyo-beyond-business-a-journey-of-impact-quality-and-growth"
+  },
+  {
+    "claim": "Briyo Supplements grew from 4-5 SKUs on Amazon alone to 60+ SKUs across multiple platforms and international markets including USA, UAE, South America, and Africa.",
+    "stance": "supports",
+    "stance_target": "Briyo is a growing, multi-market supplement brand with significant distribution reach",
+    "evidence_type": "empirical",
+    "scope_conditions": "Press release; self-reported by co-founder",
+    "quoted_support": "What started with 4-5 SKUs on a single online platform, Amazon, has now grown into a brand with over 60 SKUs, spanning multiple online platforms and markets across the USA, UAE, South America, and Africa.",
+    "numbers": ["4-5 SKUs (initial)", "60+ SKUs (current)", "60%+ repeat purchase rate"],
+    "entities": ["Briyo Supplements", "Amazon", "Flipkart", "1mg", "Pharmeasy", "BigBasket", "NetMeds"],
+    "time_period": "COVID-2025",
+    "region": "India, USA, UAE, South America, Africa",
+    "confidence": "high",
+    "source_note_id": "briyo-beyond-business-a-journey-of-impact-quality-and-growth"
+  },
+  {
+    "claim": "Briyo Supplements' repeat purchase rate exceeds 60%, including customers from its earliest days.",
+    "stance": "supports",
+    "stance_target": "Briyo has strong customer loyalty consistent with quality product claims",
+    "evidence_type": "empirical",
+    "scope_conditions": "Self-reported by founder in press release",
+    "quoted_support": "This dedication has helped us earn the loyalty of countless customers, with a repeat purchase rate exceeding 60%, including those who have been with us since our early days.",
+    "numbers": ["60%+ repeat purchase rate"],
+    "entities": ["Briyo Supplements"],
+    "time_period": "current (2025)",
+    "region": "India and international",
+    "confidence": "medium",
+    "source_note_id": "briyo-beyond-business-a-journey-of-impact-quality-and-growth"
+  },
+  {
+    "claim": "Briyo Supplements focuses on health supplements and OTC products using formulations that are 'thoroughly tested to ensure they deliver the ingredients they promise', including easy-to-swallow capsules and chewable tablets with natural flavors.",
+    "stance": "supports",
+    "stance_target": "Briyo products are tested for ingredient delivery and quality",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Self-reported by founder; no third-party verification cited in this source",
+    "quoted_support": "We've created formulations that are convenient to consume and backed by thorough testing to ensure that they deliver the ingredients they promise. From easy-to-swallow capsules to chewable tablets with natural flavors, our products are crafted for modern consumers.",
+    "numbers": [],
+    "entities": ["Briyo Supplements", "Janvi Patel"],
+    "time_period": "2025",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "briyo-beyond-business-a-journey-of-impact-quality-and-growth"
+  }
+]

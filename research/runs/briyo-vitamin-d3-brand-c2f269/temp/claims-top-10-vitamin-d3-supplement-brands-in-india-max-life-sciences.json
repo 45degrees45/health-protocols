@@ -1,0 +1,30 @@
+[
+  {
+    "claim": "Briyo Vitamin D3 does not appear in Max Life Sciences' top 10 Vitamin D3 supplement brands in India, which is dominated by pharmaceutical brands (Cipla, Abbott, Mankind, Sun Pharma, Alkem).",
+    "stance": "neutral",
+    "stance_target": "Briyo brand recognition in India Vitamin D market",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "India, Vitamin D3 supplement market, self-promotional ranking",
+    "quoted_support": "Top 10: Richi Bone Tablets (Max Life Sciences), Cipcal D3 (Cipla), Vitamin D3+K2 (generic), Lumia (Sun Pharma), Vitanova (Zuventus), Calshine (Eris), D3 Must (Mankind), Arachitol (Abbott), Uprise (Alkem), D-Well (Sun Pharma)",
+    "numbers": ["INR 35-90 (Arachitol 60K IU sachet)", "INR 90-180 (Cipcal D3 15 tablets)", "INR 350-900 (D3+K2 combos, 30 tabs)", "INR 180-300 (Richi Bone Tablets, 10x10)"],
+    "entities": ["Cipla", "Abbott", "Mankind Pharma", "Sun Pharmaceutical Industries", "Alkem Laboratories", "Zuventus Healthcare", "Eris Lifesciences", "Max Life Sciences"],
+    "time_period": "2024-2025",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "top-10-vitamin-d3-supplement-brands-in-india-max-life-sciences"
+  },
+  {
+    "claim": "The Indian Vitamin D3 supplement market includes major pharmaceutical manufacturers including Cipla, Abbott, Mankind Pharma, Sun Pharma, and Alkem, competing alongside nutraceutical brands.",
+    "stance": "neutral",
+    "stance_target": "Competitive landscape for Vitamin D3 in India",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "India, pharmaceutical and nutraceutical segment",
+    "quoted_support": "Arachitol is one of the most recognized Vitamin D3 supplement brands in India. Manufactured by Abbott, it is extensively prescribed to improve Vitamin D levels, strengthen bones, and support healthy muscle function.",
+    "numbers": [],
+    "entities": ["Abbott", "Cipla", "Mankind Pharma", "Sun Pharma", "Alkem Laboratories"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "top-10-vitamin-d3-supplement-brands-in-india-max-life-sciences"
+  }
+]

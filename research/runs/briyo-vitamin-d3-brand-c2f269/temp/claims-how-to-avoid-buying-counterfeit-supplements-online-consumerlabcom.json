@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Multiple major supplement brands had counterfeit versions sold on Amazon in 2023-2024, including Prevagen, Pure Encapsulations, NatureMD, Bausch+Lomb PreserVision, NOW Foods, and Fungi Perfecti Host Defense.",
+    "stance": "supports",
+    "stance_target": "Counterfeit supplements are a systemic and escalating problem on Amazon",
+    "evidence_type": "historical",
+    "scope_conditions": "Amazon US marketplace, 2023-2025",
+    "quoted_support": "In November 2023 a lawsuit was filed against multiple parties allegedly selling counterfeit Prevagen on Amazon. In September 2023, counterfeit versions of Pure Encapsulations L-glutamine and NatureMD's GutConnect 365 were sold on Amazon. In August 2023, a counterfeit version of Bausch + Lomb's PreserVision AREDS 2 Eye Vitamin & Mineral supplement had been sold on Amazon. In April 2023, NOW Foods discovered 11 different counterfeit NOW supplements... Fungi Perfecti discovered 23 different sellers on Amazon selling counterfeits of its Host Defense brand mushroom supplements.",
+    "numbers": ["11 counterfeit NOW products", "23 counterfeit Host Defense sellers"],
+    "entities": ["Prevagen", "Pure Encapsulations", "NatureMD", "Bausch+Lomb", "NOW Foods", "Fungi Perfecti", "Amazon"],
+    "time_period": "2023-2025",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "how-to-avoid-buying-counterfeit-supplements-online-consumerlabcom"
+  },
+  {
+    "claim": "Amazon confirmed in October 2023 that it has no definitive response on whether products 'sold by' and 'shipped by' Amazon are always authentic and not counterfeit due to inventory commingling.",
+    "stance": "supports",
+    "stance_target": "Even 'sold by Amazon' designation does not guarantee supplement authenticity",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Amazon US marketplace policy, confirmed October 2023",
+    "quoted_support": "ConsumerLab asked Amazon's public relations group if buying a product that is 'sold by' and 'shipped by' Amazon assures that the product is always from the brand itself or a distributor authorized by the brand. Unfortunately, we were told, on October 11, 2023, that 'Amazon does not have a response' at this time.",
+    "numbers": [],
+    "entities": ["Amazon", "ConsumerLab"],
+    "time_period": "October 2023",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "how-to-avoid-buying-counterfeit-supplements-online-consumerlabcom"
+  },
+  {
+    "claim": "Amazon announced in March 2026 it will end inventory commingling practices, but only for new inventory entering fulfillment centers after March 31, 2026 — not existing stock already in transit or warehoused.",
+    "stance": "neutral",
+    "stance_target": "Amazon's counterfeit supplement risk mitigation measures",
+    "evidence_type": "historical",
+    "scope_conditions": "Amazon US operations, effective March 31, 2026",
+    "quoted_support": "Amazon has announced that it will 'end commingling practices' across their supply chain as of March 31, 2026. However, this only applies to new inventory, not to products that are currently in transit to, or already stored in Amazon fulfillment centers.",
+    "numbers": ["March 31, 2026 effective date"],
+    "entities": ["Amazon"],
+    "time_period": "March 2026",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "how-to-avoid-buying-counterfeit-supplements-online-consumerlabcom"
+  },
+  {
+    "claim": "Very few supplement brands participate in the Amazon Transparency program despite it covering 90,000+ brands overall, and Amazon provides no list of participating supplement companies.",
+    "stance": "supports",
+    "stance_target": "Amazon's Transparency Program provides insufficient consumer protection for supplements",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Amazon US marketplace, supplement category",
+    "quoted_support": "More than 90,000 brands are apparently enrolled in the Amazon Transparency program. However, Amazon does not provide a list of participating companies or products, and brands may choose which products they enroll in the program. Consequently, consumers are left uncertain of whether the lack of a transparency code on a product means it is counterfeit. In addition, we have found that very few supplement brands participate in the program.",
+    "numbers": ["90,000+ brands enrolled in Amazon Transparency overall"],
+    "entities": ["Amazon", "ConsumerLab"],
+    "time_period": "2024-2026",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "how-to-avoid-buying-counterfeit-supplements-online-consumerlabcom"
+  },
+  {
+    "claim": "ConsumerLab recommends buying supplements directly from the brand's own website as the single best way to avoid counterfeit products online.",
+    "stance": "neutral",
+    "stance_target": "Best practices for safe supplement purchasing",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Supplement purchasing guidance",
+    "quoted_support": "The best way to avoid counterfeit products, when possible, is to purchase directly from the brand's website. Brands that do not sell directly to consumers will often have a 'Where to Buy' page or may provide links to trusted distributors and retailers, some of which may also be authorized to sell from their storefronts on Amazon.",
+    "numbers": [],
+    "entities": ["ConsumerLab"],
+    "time_period": "2024-2026",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "how-to-avoid-buying-counterfeit-supplements-online-consumerlabcom"
+  }
+]

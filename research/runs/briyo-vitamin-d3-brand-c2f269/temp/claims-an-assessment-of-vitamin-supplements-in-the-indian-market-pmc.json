@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Vitamin D3 is the single most common standalone vitamin supplement in the Indian market, with 150 single-ingredient D3 products (16.02% of all single-vitamin preparations) identified in the 2010 Drug Today compendium.",
+    "stance": "supports",
+    "stance_target": "Vitamin D3 supplementation is a large and established product category in India supporting market viability for Briyo",
+    "evidence_type": "empirical",
+    "scope_conditions": "Indian pharmaceutical market, 2010 Drug Today compendium",
+    "quoted_support": "Among single preparations (N=220, group I, n=180; group II, n=40), the maximum number is that of vitamin D3 (n=150; 16.02%) followed by folic acid (n=45; 4.80%).",
+    "numbers": ["936 total vitamin formulations in Indian market", "220 single-ingredient preparations", "150 single-ingredient Vitamin D3 products (16.02% of single preparations)"],
+    "entities": [],
+    "time_period": "2010 (Drug Today 2010 compendium)",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "an-assessment-of-vitamin-supplements-in-the-indian-market-pmc"
+  },
+  {
+    "claim": "In India's 2010 supplement market, 76.49% of all vitamin products were combination formulations rather than single-ingredient products, and a large number of products did not specify the amount of vitamins in their preparations.",
+    "stance": "supports",
+    "stance_target": "Single-ingredient, clearly labeled Vitamin D3 products like Briyo occupy a distinct and transparent minority niche in the Indian market",
+    "evidence_type": "empirical",
+    "scope_conditions": "Indian pharmaceutical market, 2010",
+    "quoted_support": "Most of the preparations are available as combinations (N=716, 76.49%)... In a large number of products, amount of the vitamins was not specified.",
+    "numbers": ["76.49% combination products", "936 total formulations"],
+    "entities": [],
+    "time_period": "2010",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "an-assessment-of-vitamin-supplements-in-the-indian-market-pmc"
+  },
+  {
+    "claim": "As of 2012, India's supplement regulation was insufficient — products with unknown composition were freely available as over-the-counter agents, and authors called for urgent regulatory reform with stricter enforcement.",
+    "stance": "supports",
+    "stance_target": "India's supplement regulatory gap creates quality risk for consumers and market pressure for quality-conscious brands",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "India, 2012",
+    "quoted_support": "Availability of a large number of preparations with unknown composition as 'over the counter' agents requires a serious review of the legal provisions in India for drug manufacturing and marketing. There is a need for proper guidelines and regulations for the manufacturing, labelling and marketing of dietary supplements in India. Strict enforcement of such provisions is essential to safeguard the health of the population at large.",
+    "numbers": [],
+    "entities": [],
+    "time_period": "2012",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "an-assessment-of-vitamin-supplements-in-the-indian-market-pmc"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "GMP certification applies to manufacturing facilities, not finished supplement products — there is no 'GMP certified supplements list' and supplements themselves cannot be GMP certified.",
+    "stance": "neutral",
+    "stance_target": "Consumer understanding of GMP certification scope",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Dietary supplement industry",
+    "quoted_support": "It is important to clarify a common misconception in the supplement industry. Supplements themselves are not GMP certified, and there is no official GMP certified supplements list. Certification applies to the manufacturing facility, not the finished product.",
+    "numbers": [],
+    "entities": ["GMP"],
+    "time_period": "current",
+    "region": "USA",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-a-guide-for-supplement-brands"
+  },
+  {
+    "claim": "97% of consumers want retailers to inspect supplement manufacturing facilities, and 85% expect supplements to be tested for safety — indicating widespread consumer expectation for quality verification that GMP alone may not satisfy.",
+    "stance": "neutral",
+    "stance_target": "Consumer expectations for supplement quality",
+    "evidence_type": "statistical",
+    "scope_conditions": "Survey of 1,000 US adults",
+    "quoted_support": "97% indicated they want retailers to visit and inspect facilities that produce dietary supplements, personal care products, and OTC drugs... Nearly 85% also expect supplements to be tested for safety.",
+    "numbers": ["97%", "85%", "1,000 adults"],
+    "entities": ["NSF"],
+    "time_period": "2021",
+    "region": "USA",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-a-guide-for-supplement-brands"
+  },
+  {
+    "claim": "61% of consumers cite GMP-inspected facility labeling as a confidence booster, and 62% point to independent third-party certification from a health and safety organization — both are voluntary distinctions not required by law.",
+    "stance": "neutral",
+    "stance_target": "GMP certification impact on consumer trust",
+    "evidence_type": "statistical",
+    "scope_conditions": "Survey of 1,000 US adults",
+    "quoted_support": "When asked what would increase their confidence in supplements, 61% cited labeling that indicates products are made in facilities inspected for GMPs, while 62% pointed to independent third-party certification from a health and safety organization.",
+    "numbers": ["61%", "62%"],
+    "entities": ["NSF"],
+    "time_period": "2021",
+    "region": "USA",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-a-guide-for-supplement-brands"
+  },
+  {
+    "claim": "GMP compliance is legally mandatory for all US supplement manufacturers under DSHEA 1994, while GMP certification is voluntary — a non-certified manufacturer may still be fully compliant with GMP regulations.",
+    "stance": "neutral",
+    "stance_target": "Distinction between GMP compliance and GMP certification",
+    "evidence_type": "legal",
+    "scope_conditions": "US dietary supplement market",
+    "quoted_support": "Under the Dietary Supplement Health and Education Act of 1994 (DSHEA), all dietary supplement manufacturers are legally required to comply with Good Manufacturing Practice regulations... Compliance is not optional; it is a baseline regulatory obligation.",
+    "numbers": [],
+    "entities": ["DSHEA", "FDA", "GMP", "21 CFR Part 111"],
+    "time_period": "1994-present",
+    "region": "USA",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-a-guide-for-supplement-brands"
+  },
+  {
+    "claim": "FDA enforcement powers for GMP non-compliance include facility inspections, warning letters (Form 483), product seizures, injunctions, mandatory recalls, civil monetary penalties, and criminal prosecution including strict liability misdemeanors.",
+    "stance": "neutral",
+    "stance_target": "Regulatory enforcement of GMP compliance",
+    "evidence_type": "legal",
+    "scope_conditions": "US dietary supplement manufacturing",
+    "quoted_support": "When manufacturers are found to be non-compliant, the FDA may pursue several types of enforcement actions... Misdemeanor or felony prosecution (including strict liability). Applies even without intent if products are adulterated or misbranded.",
+    "numbers": [],
+    "entities": ["FDA", "GMP", "21 CFR Part 111"],
+    "time_period": "current",
+    "region": "USA",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-a-guide-for-supplement-brands"
+  }
+]

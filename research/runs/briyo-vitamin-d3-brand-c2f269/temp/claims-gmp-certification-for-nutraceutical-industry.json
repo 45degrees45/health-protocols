@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "In India, FSSAI certification is the mandatory license for manufacturing or selling nutraceutical products, and operating without it is illegal under FSS Act 2006.",
+    "stance": "supports",
+    "stance_target": "FSSAI regulatory compliance is required for all nutraceutical brands selling in India",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers, distributors, importers",
+    "quoted_support": "Manufacturing or selling nutraceutical products without the GMP or FSSAI registration can lead to many issues, like illegal and serious penalties. It's a compulsory thing to have these certifications before entering in Indian market with your nutraceutical products.",
+    "numbers": [],
+    "entities": ["FSSAI", "Food Safety and Standards Authority of India", "FSS Act 2006", "CDSCO"],
+    "time_period": "Current (FSS Act 2006 onwards)",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "gmp-certification-for-nutraceutical-industry"
+  },
+  {
+    "claim": "GMP certification for nutraceutical products in India is issued by FSSAI under the Food Safety and Standards Act 2006.",
+    "stance": "supports",
+    "stance_target": "FSSAI is the relevant certification body for Indian nutraceutical GMP",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers",
+    "quoted_support": "The certification is issued by the Food Safety and Standards Authority of India (FSSAI) under the Food Safety and Standards Act, 2006.",
+    "numbers": [],
+    "entities": ["FSSAI", "FSS Act 2006"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "gmp-certification-for-nutraceutical-industry"
+  },
+  {
+    "claim": "GMP certification for nutraceuticals requires compliance with the Food Safety and Standards (Health Supplements, Nutraceuticals, etc.) Regulations 2016.",
+    "stance": "supports",
+    "stance_target": "Regulatory framework for nutraceutical quality in India",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers",
+    "quoted_support": "Complying with the Food Safety and Standards (Health Supplements, Nutraceuticals, etc.) Regulations, 2016, are an important thing if you are a manufacturer in India.",
+    "numbers": [],
+    "entities": ["FSSAI", "FSS Health Supplements Regulations 2016"],
+    "time_period": "2016 onwards",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "gmp-certification-for-nutraceutical-industry"
+  },
+  {
+    "claim": "GMP certification for exports from India also serves as a mandatory requirement for entering global markets.",
+    "stance": "supports",
+    "stance_target": "GMP certification value for Indian supplement brands seeking international distribution",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Indian nutraceutical exporters",
+    "quoted_support": "if you want to trade internationally, then the GMP certification is also a mandatory thing for entering global markets.",
+    "numbers": [],
+    "entities": ["GMP"],
+    "time_period": "Current",
+    "region": "India / International",
+    "confidence": "medium",
+    "source_note_id": "gmp-certification-for-nutraceutical-industry"
+  }
+]

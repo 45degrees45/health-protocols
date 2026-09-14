@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Vitamin D supplementation significantly reduces the risk of acute respiratory tract infections (ARTI): overall 12% reduction (adjusted OR 0.88) across 25 RCTs with 11,321 participants aged 0-95",
+    "stance": "supports",
+    "stance_target": "Vitamin D3 immune support claims (reduces infection risk)",
+    "evidence_type": "statistical",
+    "scope_conditions": "Systematic review and IPD meta-analysis of 25 double-blind RCTs; diverse populations, aged 0-95; Medline/Embase/Cochrane through December 2015",
+    "quoted_support": "Vitamin D supplementation reduced the risk of acute respiratory tract infection among all participants (adjusted odds ratio 0.88, 95% confidence interval 0.81 to 0.96; P for heterogeneity <0.001).",
+    "numbers": ["25 RCTs", "11,321 participants", "Adjusted OR 0.88 (95% CI 0.81-0.96)", "12% overall reduction in ARTI risk", "Evidence quality: HIGH"],
+    "entities": ["Martineau AR", "Jolliffe DA", "BMJ 2017", "Queen Mary University London", "PROSPERO CRD42014013953"],
+    "time_period": "2017; RCTs through December 2015",
+    "region": "Global (multiple countries)",
+    "confidence": "high",
+    "source_note_id": "vitamin-d-supplementation-to-prevent-acute-respiratory-tract-infections-systemat"
+  },
+  {
+    "claim": "Daily or weekly vitamin D dosing is significantly more protective against respiratory infections than bolus dosing: daily/weekly OR 0.81 vs. bolus OR 0.97 (not significant)",
+    "stance": "supports",
+    "stance_target": "Daily softgel capsule 2000 IU dosing format superiority over bolus dosing",
+    "evidence_type": "statistical",
+    "scope_conditions": "IPD meta-analysis subgroup; same 25 RCTs, 11,321 participants; interaction p=0.05",
+    "quoted_support": "Protective effects were seen in those receiving daily or weekly vitamin D without additional bolus doses (adjusted odds ratio 0.81, 0.72 to 0.91) but not in those receiving one or more bolus doses (adjusted odds ratio 0.97, 0.86 to 1.10; P for interaction=0.05).",
+    "numbers": ["Daily/weekly: OR 0.81 (95% CI 0.72-0.91)", "Bolus: OR 0.97 (95% CI 0.86-1.10) — not significant", "P for interaction = 0.05"],
+    "entities": ["Martineau AR et al. BMJ 2017"],
+    "time_period": "2017",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "vitamin-d-supplementation-to-prevent-acute-respiratory-tract-infections-systemat"
+  },
+  {
+    "claim": "Vitamin D-deficient individuals gain the greatest immune benefit from supplementation: severely deficient (25OHD <25 nmol/L) had 70% reduction in ARTI risk vs 25% reduction in replete individuals",
+    "stance": "supports",
+    "stance_target": "Need for Vitamin D supplementation in deficient populations (high relevance for India)",
+    "evidence_type": "statistical",
+    "scope_conditions": "Subgroup IPD meta-analysis; interaction p=0.006 between baseline 25OHD level and protective effect",
+    "quoted_support": "Among those receiving daily or weekly vitamin D, protective effects were stronger in those with baseline 25-hydroxyvitamin D levels <25 nmol/L (adjusted odds ratio 0.30, 0.17 to 0.53) than in those with baseline 25-hydroxyvitamin D levels ≥25 nmol/L (adjusted odds ratio 0.75, 0.60 to 0.95; P for interaction=0.006).",
+    "numbers": ["Severely deficient (<25 nmol/L): OR 0.30 (70% reduction)", "Non-severely deficient (≥25 nmol/L): OR 0.75 (25% reduction)", "P for interaction = 0.006"],
+    "entities": ["Martineau AR et al. BMJ 2017"],
+    "time_period": "2017",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "vitamin-d-supplementation-to-prevent-acute-respiratory-tract-infections-systemat"
+  },
+  {
+    "claim": "Vitamin D supplementation is safe for immune support purposes, with no increase in serious adverse events compared to placebo (adjusted OR 0.98, not significant)",
+    "stance": "supports",
+    "stance_target": "Safety of Vitamin D3 supplementation for immune function",
+    "evidence_type": "statistical",
+    "scope_conditions": "Safety analysis across 25 RCTs, 11,321 participants; prospective adverse event monitoring",
+    "quoted_support": "Vitamin D did not influence the proportion of participants experiencing at least one serious adverse event (adjusted odds ratio 0.98, 0.80 to 1.20, P=0.83). The body of evidence contributing to these analyses was assessed as being of high quality.",
+    "numbers": ["Serious adverse events: OR 0.98 (95% CI 0.80-1.20)", "P=0.83 (not significant)", "High quality evidence by GRADE"],
+    "entities": ["Martineau AR et al. BMJ 2017"],
+    "time_period": "2017",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "vitamin-d-supplementation-to-prevent-acute-respiratory-tract-infections-systemat"
+  },
+  {
+    "claim": "The mechanism by which vitamin D protects against respiratory infections includes induction of antimicrobial peptides (cathelicidins and defensins) in response to viral and bacterial stimuli",
+    "stance": "supports",
+    "stance_target": "Vitamin D3 immune system mechanism of action",
+    "evidence_type": "empirical",
+    "scope_conditions": "In vitro studies and epidemiological data reviewed in Martineau 2017",
+    "quoted_support": "25-hydroxyvitamin D supports induction of antimicrobial peptides in response to both viral and bacterial stimuli, suggesting a potential mechanism by which vitamin D inducible protection against respiratory pathogens might be mediated. Vitamin D metabolites have also been reported to induce other innate antimicrobial effector mechanisms, including induction of autophagy and synthesis of reactive nitrogen intermediates and reactive oxygen intermediates.",
+    "numbers": ["Acute respiratory infections: 2.65 million deaths worldwide in 2013", "10% of ambulatory and ED visits in USA"],
+    "entities": ["Martineau AR et al. BMJ 2017", "PROSPERO CRD42014013953"],
+    "time_period": "2017",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "vitamin-d-supplementation-to-prevent-acute-respiratory-tract-infections-systemat"
+  }
+]

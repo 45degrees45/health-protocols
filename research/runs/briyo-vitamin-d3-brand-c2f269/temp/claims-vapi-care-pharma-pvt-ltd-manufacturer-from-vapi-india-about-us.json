@@ -1,0 +1,16 @@
+[
+  {
+    "claim": "Vapi Care Pharma Pvt. Ltd. (Briyo's contract manufacturer for chewable tablets) is an established pharmaceutical contract manufacturer with clients including Abbott, Sun Pharma, Dr. Reddy's, Alembic, and Micro Labs, and operates in 18+ countries.",
+    "stance": "supports",
+    "stance_target": "Briyo manufacturing partner credibility",
+    "evidence_type": "empirical",
+    "scope_conditions": "IndiaMart company profile, India; revenue data from Tracxn/D&B for FY2024",
+    "quoted_support": "VCPPL is currently manufacturing partner for major multinational supporting more than 100 quality formulations. We operate in more than 18 countries and have more than 100 products registered across the globe. Our Clientele: FDC, Medfy, Sun Pharma, Aristopharma, Micro Labs Ltd, Alembic, Abbott, Dr.Reddy.",
+    "numbers": ["300+ pharmaceutical dosage forms", "18+ countries", "100+ registered products globally", "Rs 86.7Cr revenue FY2024", "CIN U24231GJ1996PTC029124"],
+    "entities": ["Vapi Care Pharma Pvt. Ltd.", "Abbott", "Sun Pharma", "Dr. Reddy's", "Alembic", "Micro Labs Ltd", "Briyo"],
+    "time_period": "1996-2026",
+    "region": "Vapi, Gujarat, India",
+    "confidence": "high",
+    "source_note_id": "vapi-care-pharma-pvt-ltd-manufacturer-from-vapi-india-about-us"
+  }
+]

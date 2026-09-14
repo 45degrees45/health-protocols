@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Vitamin D3 soft gel capsule (SGC) supplementation significantly raises circulating 25(OH)D levels in vitamin D-deficient adults, from a deficient baseline of ~12 ng/ml to sufficient levels of ~38 ng/ml over 6 weeks",
+    "stance": "supports",
+    "stance_target": "Vitamin D3 softgel capsule efficacy for correcting deficiency",
+    "evidence_type": "empirical",
+    "scope_conditions": "Prospective randomized clinical trial; Pakistan; n=20; healthy adults with VDD (<20 ng/ml); weekly 200,000 IU doses for 6 weeks",
+    "quoted_support": "At 6-weeks follow-up, circulatory 25(OH)D levels showed a further considerable increase in the sucrosomial® Vit D3 treatment group to 66.1 ± 5.1 ng/ml, with a statistically significant difference in the SGC Vit D3 group (38.2 ± 2.6 ng/ml), which showed only a minimal increase.",
+    "numbers": ["SGC raised 25(OH)D from 12.6 ng/ml to 38.2 ng/ml at 6 weeks", "Deficiency threshold: <20 ng/ml", "Sufficiency target: 30-50 ng/ml"],
+    "entities": ["Bano A et al.", "Front Nutr 2023", "NCT05706259", "Pakistan study"],
+    "time_period": "2023; 6-week RCT",
+    "region": "Pakistan",
+    "confidence": "high",
+    "source_note_id": "a-comparative-absorption-study-of-sucrosomial-orodispersible-vitamin-d3-suppleme"
+  },
+  {
+    "claim": "Vitamin D3 supplementation in all tested formulations (softgel, chewable tablet, sucrosomial) was well tolerated with no adverse events, no hypercalcemia, and no negative effects on liver enzymes or creatinine",
+    "stance": "supports",
+    "stance_target": "Safety of Vitamin D3 supplementation including softgel capsule form",
+    "evidence_type": "empirical",
+    "scope_conditions": "Two parallel RCTs, N=45 total, 6-week high-dose supplementation (200,000 IU/week = equivalent to ~28,000 IU/day during supplementation period), Pakistan 2023",
+    "quoted_support": "Overall, in both studies, the Vit D3 treatment was well tolerated by all participants, and there were no treatment-related adverse effects, side effects, serious events, or discontinuation of the Vit D3 treatment due to safety reasons.",
+    "numbers": ["0 adverse events in 45 subjects", "No hypercalcemia cases", "Calcium levels unchanged (p ≥ 0.5)", "No liver enzyme changes", "200,000 IU weekly dose used"],
+    "entities": ["Bano A et al. Front Nutr 2023", "NCT05706259"],
+    "time_period": "2023",
+    "region": "Pakistan",
+    "confidence": "high",
+    "source_note_id": "a-comparative-absorption-study-of-sucrosomial-orodispersible-vitamin-d3-suppleme"
+  },
+  {
+    "claim": "Vitamin D deficiency (25(OH)D <20 ng/ml) prevalence is extremely high in South Asia: over one billion people worldwide are vitamin D deficient; Pakistan has 53.5% prevalence rate (63% in females), with similar patterns across India",
+    "stance": "supports",
+    "stance_target": "Need for Vitamin D supplementation in Indian population",
+    "evidence_type": "statistical",
+    "scope_conditions": "Global epidemiological data; VDD prevalence 20-90% in Europe, USA, Middle East; similar trends in India, Africa, South America",
+    "quoted_support": "Approximately, over one billion people worldwide are Vit D deficient, and the deficiency is frequently undiagnosed. The prevalence of VDD in Europe, USA, and the Middle East ranges from 20 to 90%, with similar trends also reported in Australia, India, Africa, South America, Turkey, and Lebanon.",
+    "numbers": ["Over 1 billion people worldwide VD deficient", "20-90% VDD prevalence in various regions", "53.5% VDD prevalence in Pakistan", "63% VDD in Pakistani females"],
+    "entities": ["Amrein K et al. Eur J Clin Nutr 2020", "Riaz H et al. 2016"],
+    "time_period": "2020 epidemiological data",
+    "region": "Global including India",
+    "confidence": "high",
+    "source_note_id": "a-comparative-absorption-study-of-sucrosomial-orodispersible-vitamin-d3-suppleme"
+  },
+  {
+    "claim": "Vitamin D deficiency is linked to rickets, osteomalacia, osteoporosis, cardiovascular disease, autoimmune diseases, depression, tuberculosis, and cancer beyond classic bone disorders",
+    "stance": "supports",
+    "stance_target": "Multi-benefit claims for Vitamin D3 supplementation",
+    "evidence_type": "empirical",
+    "scope_conditions": "Review of literature on VDD associations; multiple disease outcomes",
+    "quoted_support": "Vit D deficiency (VDD), defined as circulatory 25(OH)D levels < 20 ng/ml, is not only linked with rickets or osteomalacia or osteoporosis but also with the risk of cardiovascular diseases, autoimmune diseases (such as type 1 diabetes, rheumatoid arthritis, inflammatory bowel disease, and multiple sclerosis), impaired mental health conditions (such as depression, anxiety, and Parkinson's disease), tuberculosis, and cancer (breast cancer and colon cancer).",
+    "numbers": ["VDD threshold: 25(OH)D < 20 ng/ml", "Sufficiency: 30-50 ng/ml"],
+    "entities": ["Janoušek J et al. Crit Rev Clin Lab Sci 2022"],
+    "time_period": "2022 review",
+    "region": "Global",
+    "confidence": "medium",
+    "source_note_id": "a-comparative-absorption-study-of-sucrosomial-orodispersible-vitamin-d3-suppleme"
+  },
+  {
+    "claim": "Vitamin D3 has protective effects against respiratory tract infections and emerging evidence links VDD to COVID-19 severity and mortality",
+    "stance": "supports",
+    "stance_target": "Vitamin D3 immune support claims",
+    "evidence_type": "empirical",
+    "scope_conditions": "Multiple studies; evidence ranges from experimental to observational to RCT data on respiratory infections",
+    "quoted_support": "Vit D has also shown protective effects against respiratory tract infections, and there is emerging evidence of a possible association between VDD and progression to severe illness and mortality in patients with COVID-19. Circulatory Vit D levels affect the proliferation and differentiation of immune cells, and its deficiency results in impaired immune response.",
+    "numbers": ["VDR expressed ubiquitously in body", "Innate and adaptive immunity both modulated by vitamin D"],
+    "entities": ["Baeke F et al. 2010", "Lagishetty V et al. 2011", "Martineau AR et al. BMJ 2017", "Katz J et al. Nutrition 2021"],
+    "time_period": "2010-2023",
+    "region": "Global",
+    "confidence": "medium",
+    "source_note_id": "a-comparative-absorption-study-of-sucrosomial-orodispersible-vitamin-d3-suppleme"
+  }
+]

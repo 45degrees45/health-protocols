@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "ConsumerLab found that two of 26 tested vitamin D supplements contained up to twice the labeled amount of vitamin D, posing toxicity risk to consumers.",
+    "stance": "supports",
+    "stance_target": "vitamin D supplements can have potency inaccuracies including dangerous overdosing",
+    "evidence_type": "empirical",
+    "scope_conditions": "26 popular US vitamin D supplements tested in 2024",
+    "quoted_support": "ConsumerLab recently tested 26 popular vitamin D supplements, some of which included additional ingredients. and found that two products contained up to twice the amount of vitamin D listed on the label. Someone taking these products could, unknowingly, put themselves at risk of hypercalcemia (too much calcium in the blood) and other problems associated with having too much vitamin D.",
+    "numbers": ["26 products tested", "2 products with up to 2x labeled amount", "doses ranged from 24 mcg (960 IU) to 169 mcg (6,760 IU)", "tolerable upper intake level is 100 mcg (4,000 IU)"],
+    "entities": ["ConsumerLab", "Tod Cooperman M.D."],
+    "time_period": "August 2024",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "some-vitamin-d-supplements-contain-much-more-than-claimed-consumerlabcom"
+  },
+  {
+    "claim": "Vitamin D supplement cost per 1,000 IU dose varies dramatically from 1 cent to $1.75, with premium formats (gummies, vegan, combo products) costing more.",
+    "stance": "neutral",
+    "stance_target": "pricing of vitamin D supplements",
+    "evidence_type": "empirical",
+    "scope_conditions": "Tested products from ConsumerLab 2024 review",
+    "quoted_support": "ConsumerLab also found a huge range in the cost to get vitamin D from supplements, ranging, per 25 mcg (1,000 IU) dose, from as little as 1 cent to $1.75. Products with special formulations, such as gummies, and those with extra ingredients, or vegan, vegetarian, or all-natural ingredients, were more expensive.",
+    "numbers": ["1 cent per 1,000 IU (lowest)", "$1.75 per 1,000 IU (highest)"],
+    "entities": ["ConsumerLab"],
+    "time_period": "2024",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "some-vitamin-d-supplements-contain-much-more-than-claimed-consumerlabcom"
+  },
+  {
+    "claim": "Neither Briyo nor any Indian D3 brands appeared in ConsumerLab's 2024 vitamin D supplement testing pool of 26 products.",
+    "stance": "neutral",
+    "stance_target": "Briyo brand quality verification status",
+    "evidence_type": "historical",
+    "scope_conditions": "ConsumerLab 2024 Vitamin D Supplements Review",
+    "quoted_support": "Eighteen products were selected for testing by ConsumerLab: AlgaeCal Plus, Bayer Citracal Petites, Biotics Research Bio-D-Mulsion Forte, Caltrate Minis, Doctor's Best Vegan D3 2,500 IU, Kirkland Signature [Costco] D3 50 mcg, Life Extension Bone Restore Calcium Supplement with Vitamin K2, Metagenics Bone Builder Forte, Sports Research D3 + K2, Nature Made D3 1,000 IU (25 mcg), Nordic Naturals Vitamin D3 Gummies, New Chapter Plant Calcium Bone Strength Take Care, NOW High Potency Vitamin D-3 2,000 IU, Pure Encapsulations Vitamin D3 Liquid, Source Naturals Vitamin D-3, Sports Research D3 + K2, Thorne Vitamin D + K2, VitaCost Vitamin D3 125 mcg (5,000 IU), and Whole Earth & Sea Vegan Bioenhanced Vitamin D3 1,000 IU.",
+    "numbers": ["18 CL-selected products", "8 voluntary certification products", "26 total tested"],
+    "entities": ["ConsumerLab", "AlgaeCal", "Bayer", "Nature Made", "NOW Foods", "Thorne", "Kirkland Signature"],
+    "time_period": "2024",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "some-vitamin-d-supplements-contain-much-more-than-claimed-consumerlabcom"
+  }
+]

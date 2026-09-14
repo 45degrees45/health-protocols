@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Briyo Supplements was founded in 2019, is privately held, headquartered in Vadodara, Gujarat (Jarod-Rasulabad Road, 390007), and employs 11-50 people.",
+    "stance": "neutral",
+    "stance_target": "Briyo company age, size, and location",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "LinkedIn company page (self-reported by the company)",
+    "quoted_support": "Founded: 2019 | Company size: 11-50 employees | Headquarters: Vadodara, Gujarat | Type: Privately Held",
+    "numbers": ["2019", "11-50 employees"],
+    "entities": ["Briyo Supplements", "Vadodara", "Gujarat"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India, Gujarat",
+    "confidence": "medium",
+    "source_note_id": "briyo-supplements-linkedin"
+  },
+  {
+    "claim": "Briyo Supplements sells more than 1,000 units per day across India and has customers in UAE and the United States, and was featured in Economic Times.",
+    "stance": "supports",
+    "stance_target": "Briyo commercial scale and international reach",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "LinkedIn post from Briyo Supplements company account; self-reported milestone",
+    "quoted_support": "What began as a family-led idea in Vadodara...has quietly grown into a brand selling 1,000+ units every single day across India and now reaching customers in the UAE and the United States.",
+    "numbers": ["1,000+ units per day"],
+    "entities": ["Briyo Supplements", "Economic Times", "UAE", "United States"],
+    "time_period": "approximately 2025-2026 (LinkedIn post ~4 months before fetch date)",
+    "region": "India, UAE, United States",
+    "confidence": "low",
+    "source_note_id": "briyo-supplements-linkedin"
+  },
+  {
+    "claim": "Briyo products are available on Amazon.in, 1mg, Flipkart, Pharmeasy, Amazon.com, BigBasket, and NetMeds.",
+    "stance": "neutral",
+    "stance_target": "Briyo retail channel distribution",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "LinkedIn company page (self-reported)",
+    "quoted_support": "Available for purchase at Amazon.in, 1 mg, Flipkart, Pharmeasy, Amazon.com, Big Basket, Briyo Supplements and NetMeds.",
+    "numbers": [],
+    "entities": ["Amazon.in", "1mg", "Flipkart", "Pharmeasy", "Amazon.com", "BigBasket", "NetMeds"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-linkedin"
+  },
+  {
+    "claim": "Briyo Supplements claims a reach of over 25 countries, built on 'extensive research, advanced manufacturing facilities and an undeniably strong global supply chain.'",
+    "stance": "neutral",
+    "stance_target": "Briyo global distribution claim",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "LinkedIn company description; self-reported; no independent verification",
+    "quoted_support": "Today, we are a fully unified pharmaceutical company with a reach over 25 countries, built on a foundation of extensive research, advanced manufacturing facilities and an undeniably strong global supply chain.",
+    "numbers": ["25 countries"],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "Global",
+    "confidence": "low",
+    "source_note_id": "briyo-supplements-linkedin"
+  },
+  {
+    "claim": "Briyo Supplements is classified under 'Pharmaceutical Manufacturing' on LinkedIn, not just 'Health and Wellness', reflecting its manufacturing-first identity.",
+    "stance": "supports",
+    "stance_target": "Briyo self-positioning as a manufacturer, not just a consumer brand",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "LinkedIn industry classification",
+    "quoted_support": "Industry: Pharmaceutical Manufacturing | Specialties: Nutraceuticals, Food Supplements, Good Health, and Essential Vitamins and Minerals",
+    "numbers": [],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of fetch date 2026-09-14",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-linkedin"
+  }
+]

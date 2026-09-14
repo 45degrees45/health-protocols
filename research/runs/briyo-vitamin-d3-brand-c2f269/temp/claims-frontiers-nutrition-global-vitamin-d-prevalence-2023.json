@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Globally, 47.9% of people have serum 25(OH)D below 50 nmol/L (insufficient) and 15.7% have levels below 30 nmol/L (severely deficient), based on 308 studies with 7.9 million participants from 81 countries (2000-2022).",
+    "stance": "supports",
+    "stance_target": "Vitamin D deficiency/insufficiency is a global pandemic affecting nearly half the world population",
+    "evidence_type": "statistical",
+    "scope_conditions": "Global; 81 countries; 308 studies; 7,947,359 participants; 2000-2022",
+    "quoted_support": "globally, 15·7% (95% CrI 13·7–17·8), 47·9% (95% CrI 44·9–50·9), and 76·6% (95% CrI 74·0–79·1) of participants had serum 25-hydroxyvitamin D levels less than 30, 50, and 75 nmol/l, respectively",
+    "numbers": ["15.7% <30 nmol/L", "47.9% <50 nmol/L", "76.6% <75 nmol/L", "308 studies", "7,947,359 participants", "81 countries"],
+    "entities": ["Cui Aiyong", "Frontiers in Nutrition", "DOI 10.3389/fnut.2023.1070808"],
+    "time_period": "2000-2022",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "text"
+  },
+  {
+    "claim": "Lower-middle-income countries (a category that includes India) have higher vitamin D deficiency prevalence than higher-income countries, per global pooled analysis.",
+    "stance": "supports",
+    "stance_target": "India's lower-middle-income status correlates with elevated vitamin D deficiency burden",
+    "evidence_type": "statistical",
+    "scope_conditions": "Global; stratified by World Bank income group",
+    "quoted_support": "the Eastern Mediterranean region and Lower-middle-income countries had a higher prevalence",
+    "numbers": [],
+    "entities": ["World Bank income groups", "Eastern Mediterranean region"],
+    "time_period": "2000-2022",
+    "region": "Global (lower-middle-income countries)",
+    "confidence": "medium",
+    "source_note_id": "text"
+  },
+  {
+    "claim": "Vitamin D deficiency prevalence in winter-spring is 1.7 times higher than in summer-autumn globally, indicating seasonal variation relevant to supplementation need.",
+    "stance": "supports",
+    "stance_target": "Seasonal variation justifies year-round supplementation in regions with monsoon or winter seasons",
+    "evidence_type": "statistical",
+    "scope_conditions": "Global; seasonal stratification",
+    "quoted_support": "the prevalence in winter-spring was 1·7 (95% CrI 1·4–2·0) times that in summer-autumn",
+    "numbers": ["1.7x higher in winter-spring", "95% CrI 1.4-2.0"],
+    "entities": ["Frontiers in Nutrition"],
+    "time_period": "2000-2022",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "text"
+  }
+]

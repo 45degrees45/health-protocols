@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Briyo was built without early investor capital, relying on a pre-existing family-led manufacturing ecosystem; its founding was not positioned as a startup venture.",
+    "stance": "neutral",
+    "stance_target": "Briyo funding status and origin story",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Economic Times article (April 21, 2026); sourced from co-founder quotes",
+    "quoted_support": "It grew from a family-built idea into a commercial business without relying on early investor capital or aggressive market positioning. It did not initially position itself as a startup in the conventional sense. It evolved out of an existing family-led manufacturing ecosystem that had been operating for years in the formulation space.",
+    "numbers": [],
+    "entities": ["Briyo", "Janvi Himanshu Patel", "Anmol Himanshu Patel", "Pranav Bharat Patel"],
+    "time_period": "company history up to April 2026",
+    "region": "India, Vadodara",
+    "confidence": "medium",
+    "source_note_id": "how-a-vadodara-startup-built-a-family-idea-into-a-business-without-chasing-the-s"
+  },
+  {
+    "claim": "Briyo achieved 1,000+ units sold per day in India and expanded to UAE and US markets, according to a co-founder statement to Economic Times (April 2026).",
+    "stance": "supports",
+    "stance_target": "Briyo sales volume and geographic distribution",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Self-reported sales figure in media interview; not independently verified",
+    "quoted_support": "Today, Briyo reports sales of over 1,000 units a day in India, with expansion into markets including the UAE and the US.",
+    "numbers": ["1,000+ units per day"],
+    "entities": ["Briyo", "Janvi Himanshu Patel", "UAE", "United States"],
+    "time_period": "April 2026",
+    "region": "India, UAE, United States",
+    "confidence": "medium",
+    "source_note_id": "how-a-vadodara-startup-built-a-family-idea-into-a-business-without-chasing-the-s"
+  },
+  {
+    "claim": "Briyo expanded internationally only after internal operational systems had stabilised, not as a growth-first strategy.",
+    "stance": "supports",
+    "stance_target": "Briyo's operations-first, scale-second business philosophy",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Co-founder statement to Economic Times",
+    "quoted_support": "The systems were not built after scale started. They were already in place before expansion.",
+    "numbers": [],
+    "entities": ["Briyo"],
+    "time_period": "April 2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "how-a-vadodara-startup-built-a-family-idea-into-a-business-without-chasing-the-s"
+  }
+]

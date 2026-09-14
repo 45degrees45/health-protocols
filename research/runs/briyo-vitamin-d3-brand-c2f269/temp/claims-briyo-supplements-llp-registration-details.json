@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "Briyo Supplements LLP (LLPIN: ABB-7998) was incorporated on 20 July 2022 under ROC-Ahmedabad, with Active status as of February 26, 2026.",
+    "stance": "neutral",
+    "stance_target": "Briyo Supplements legal entity registration and current standing",
+    "evidence_type": "legal",
+    "scope_conditions": "MCA public record aggregated by IndiaFilings; official government source",
+    "quoted_support": "LLPIN: ABB-7998 | Date of Incorporation: 20-07-2022 | ROC Code: RoC-Ahmedabad | LLP Status: Active | Last Updated On: 26-02-2026",
+    "numbers": ["LLPIN ABB-7998", "20-07-2022", "INR 1,00,000 total contribution"],
+    "entities": ["Briyo Supplements LLP", "Ministry of Corporate Affairs", "ROC-Ahmedabad"],
+    "time_period": "incorporated July 2022; active as of February 2026",
+    "region": "India, Gujarat, Vadodara",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-llp-registration-details"
+  },
+  {
+    "claim": "Briyo Supplements LLP has three designated partners: Anmol Himansubhai Patel (DIN 08209657), Pranav Bharat Patel (DIN 10011885), and Janvi Himanshubhai Patel (DIN 10670765, joined June 2024).",
+    "stance": "neutral",
+    "stance_target": "Briyo Supplements ownership and leadership structure",
+    "evidence_type": "legal",
+    "scope_conditions": "MCA public record; official",
+    "quoted_support": "DIN/PAN: 08209657 – ANMOL HIMANSUBHAI PATEL, Begin Date: 20-07-2022 | 10011885 – PRANAV BHARAT PATEL, Begin Date: 20-07-2022 | 10670765 – JANVI HIMANSHUBHAI PATEL, Begin Date: 17-06-2024",
+    "numbers": ["DIN 08209657", "DIN 10011885", "DIN 10670765", "17-06-2024"],
+    "entities": ["Anmol Himansubhai Patel", "Pranav Bharat Patel", "Janvi Himanshubhai Patel"],
+    "time_period": "as of February 2026",
+    "region": "India, Gujarat",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-llp-registration-details"
+  },
+  {
+    "claim": "Briyo Supplements LLP's registered email domain (anmol@briyosissoftcaps.com) confirms it is administratively integrated with Briyosis Soft Caps Pvt. Ltd., the parent manufacturer.",
+    "stance": "supports",
+    "stance_target": "Briyo Supplements brand is operationally tied to Briyosis manufacturing entity",
+    "evidence_type": "legal",
+    "scope_conditions": "MCA public record",
+    "quoted_support": "Email ID: anmol@briyosissoftcaps.com",
+    "numbers": [],
+    "entities": ["Briyo Supplements LLP", "Briyosis Soft Caps Pvt. Ltd."],
+    "time_period": "as of February 2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-llp-registration-details"
+  }
+]

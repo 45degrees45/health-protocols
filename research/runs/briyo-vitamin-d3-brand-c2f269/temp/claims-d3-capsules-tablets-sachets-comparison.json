@@ -1,0 +1,30 @@
+[
+  {
+    "claim": "Softgel capsules provide optimal D3 bioavailability because cholecalciferol is dissolved in an oily carrier (safflower or olive oil) inside a gelatin shell, protecting it from oxidation and light.",
+    "stance": "supports",
+    "stance_target": "softgel is superior D3 supplement form for bioavailability",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Industry article from pharmaceutical contract manufacturer (Pharma Alliance EU), no primary citations",
+    "quoted_support": "Vitamin D3 belongs to the group of fat-soluble compounds, making its placement in an oily carrier inside a gelatin shell an optimal solution in terms of bioavailability. Softgel capsules protect the oxidation-sensitive substance from external factors such as light and air, which extends the product's shelf life.",
+    "numbers": [],
+    "entities": ["softgel", "safflower oil", "olive oil", "gelatin", "cholecalciferol"],
+    "time_period": "2024-2026",
+    "region": "Europe",
+    "confidence": "low",
+    "source_note_id": "vitamin-d3-in-capsules-tablets-and-sachets-comparison"
+  },
+  {
+    "claim": "Tablets containing D3 require fat co-ingestion at mealtime to ensure adequate intestinal absorption, because the powder form lacks an oil carrier.",
+    "stance": "supports",
+    "stance_target": "tablets are inferior to softgels for D3 absorption without dietary fat",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Industry pharmaceutical article, applicable to all tablet D3 formulations",
+    "quoted_support": "It should be remembered that tablets often need to be taken with a meal containing fat to ensure optimal conditions for vitamin absorption in the intestines.",
+    "numbers": [],
+    "entities": ["tablet", "cholecalciferol", "dietary fat"],
+    "time_period": "2024-2026",
+    "region": null,
+    "confidence": "medium",
+    "source_note_id": "vitamin-d3-in-capsules-tablets-and-sachets-comparison"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "manifest_version": 1,
+  "vault_tag": "briyo-vitamin-d3-brand-c2f269",
+  "profile": "full",
+  "profile_steps": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ],
+  "status": "running",
+  "started_at": "2026-09-14T15:33:32.440940+00:00",
+  "updated_at": "2026-09-14T15:36:00.692865+00:00",
+  "budget_usd": null,
+  "blocked_on": null,
+  "steps": {
+    "1": {
+      "status": "done",
+      "finished_at": "2026-09-14T15:36:00.692415+00:00"
+    }
+  },
+  "chapters": {},
+  "spend": {
+    "estimated_usd": 0.0,
+    "sources_fetched": 0,
+    "notes_written": 0,
+    "agents_spawned": 0
+  },
+  "levers": {
+    "register": "survey",
+    "inference_depth": "standard",
+    "domain_notes": "Sourcing strategy: Amazon India product page and reviews first (primary signal for affiliate context), then brand website, FSSAI database for regulatory verification, GMP certification records, supplement review blogs and consumer forums in India, competitor comparison sites. Strong evidence = FSSAI number verifiable in official database, GMP certificate from recognized certifying body, verified Amazon reviews (not fake). Recency window: 2022-present most relevant; Indian supplement market has changed significantly post-COVID with more brands entering."
+  }
+}

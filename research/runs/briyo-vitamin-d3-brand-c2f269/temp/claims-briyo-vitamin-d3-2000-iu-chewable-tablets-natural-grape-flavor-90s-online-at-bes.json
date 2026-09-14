@@ -1,0 +1,30 @@
+[
+  {
+    "claim": "Netmeds lists Briyo Vitamin D3 2000 IU Chewable Tablets (90s) at MRP Rs 369.75 and describes the product as Kosher certified, vegetarian-friendly, third-party tested, soy-free, gluten-free, dairy-free, and non-GMO.",
+    "stance": "supports",
+    "stance_target": "Briyo product certifications as stated on retail platforms",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Netmeds retail listing, mirrors label claims; no independent verification shown",
+    "quoted_support": "The product is vegetarian-friendly, Kosher certified, and third-party tested. These tablets are made without artificial flavors or high-fructose corn syrup.",
+    "numbers": ["MRP Rs 369.75", "2000 IU per tablet", "90 tablets"],
+    "entities": ["Briyo", "Netmeds"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "briyo-vitamin-d3-2000-iu-chewable-tablets-natural-grape-flavor-90s-online-at-bes"
+  },
+  {
+    "claim": "Briyo Vitamin D3 chewable tablets are described as supporting T and B-lymphocyte immune function, bone and dental health via calcium absorption, and muscle function.",
+    "stance": "neutral",
+    "stance_target": "Briyo product health claims",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Product description on Netmeds; brand-supplied copy",
+    "quoted_support": "This supplement assists in immune system regulation by contributing to the function of T and B-lymphocytes. Contributes to Bone and Dental Health: It aids in the absorption of calcium, which is necessary for maintaining bone density and dental wellness.",
+    "numbers": [],
+    "entities": ["Briyo"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "briyo-vitamin-d3-2000-iu-chewable-tablets-natural-grape-flavor-90s-online-at-bes"
+  }
+]

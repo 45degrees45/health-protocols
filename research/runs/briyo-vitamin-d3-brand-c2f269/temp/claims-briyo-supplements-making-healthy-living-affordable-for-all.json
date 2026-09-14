@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Briyosis, Briyo's parent company, was established in 2006 as a contract manufacturer of softgel capsules; the Briyo Supplements brand emerged from this manufacturing base.",
+    "stance": "neutral",
+    "stance_target": "Briyo corporate origin and manufacturing history",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Third-party trade magazine (SiliconIndia, July 2022); based on founder interviews",
+    "quoted_support": "Briyo Supplements is a line of nutritional supplements, produced by its parent company Briyosis, which was established in 2006. Originally founded as a contract manufacturer of softgel capsules, Briyosis evolved into a company that produces its own supplements.",
+    "numbers": ["2006"],
+    "entities": ["Briyosis", "Briyo Supplements", "Anmol Patel", "Pranav Bhai Patel"],
+    "time_period": "2006 founding; article published July 2022",
+    "region": "India, Vadodara",
+    "confidence": "medium",
+    "source_note_id": "briyo-supplements-making-healthy-living-affordable-for-all"
+  },
+  {
+    "claim": "Briyosis is a USFDA-registered facility that also manufactures gelatin, the primary ingredient of softgel capsules.",
+    "stance": "supports",
+    "stance_target": "Briyosis/Briyo US regulatory standing and vertical integration",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Third-party trade magazine (SiliconIndia, July 2022)",
+    "quoted_support": "They have also been able to diversify operations and become a USFDA-registered facility manufacturing the primary ingredient of softgel capsules — Gelatine.",
+    "numbers": [],
+    "entities": ["Briyosis", "US FDA"],
+    "time_period": "as of July 2022",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "briyo-supplements-making-healthy-living-affordable-for-all"
+  },
+  {
+    "claim": "Briyo Supplements conducts third-party testing for product purity, projected efficacy, ingredient safety, nutritional value, and label accuracy.",
+    "stance": "supports",
+    "stance_target": "Briyo third-party testing claims",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Director quote in SiliconIndia (July 2022); third-party lab identity not named",
+    "quoted_support": "We deliver one of the purest supplements which are third party tested for Product Purity, Projected Efficacy, Ingredient Safety, Nutritional Value, and Label Accuracy.",
+    "numbers": [],
+    "entities": ["Briyo Supplements"],
+    "time_period": "as of July 2022",
+    "region": "India",
+    "confidence": "low",
+    "source_note_id": "briyo-supplements-making-healthy-living-affordable-for-all"
+  },
+  {
+    "claim": "Briyo Supplements has FDA and GMP approval (as reported in July 2022) and aims to expand internationally and diversify its product portfolio.",
+    "stance": "supports",
+    "stance_target": "Briyo regulatory credentials and growth trajectory",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Third-party trade magazine; 'FDA' here likely refers to US FDA facility registration; GMP refers to WHO-GMP or local GMP certification",
+    "quoted_support": "Briyo Supplements has FDA and GMP approval, which is a sure mark of quality.",
+    "numbers": [],
+    "entities": ["Briyo Supplements", "FDA", "GMP"],
+    "time_period": "as of July 2022",
+    "region": "India",
+    "confidence": "low",
+    "source_note_id": "briyo-supplements-making-healthy-living-affordable-for-all"
+  },
+  {
+    "claim": "Briyo's core product range includes Vitamin D3, CoEnzyme Q10, Vitamin C, Omega 3, and Vitamin B, targeting the Indian nutraceutical market gap for affordable essential nutrients.",
+    "stance": "neutral",
+    "stance_target": "Briyo product focus and market positioning",
+    "evidence_type": "anecdotal",
+    "scope_conditions": "Third-party trade magazine, July 2022",
+    "quoted_support": "Currently manufacturing some of the most essential nutritional supplements including Vitamin D3, CoEnzyme Q 10, Vitamin C, Omega 3, and Vitamin B.",
+    "numbers": [],
+    "entities": ["Briyo Supplements", "Vitamin D3", "CoQ10", "Vitamin C", "Omega 3", "Vitamin B"],
+    "time_period": "as of July 2022",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-supplements-making-healthy-living-affordable-for-all"
+  }
+]

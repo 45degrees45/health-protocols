@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "India's nutraceuticals market was projected to grow from $4 billion to $18 billion by end of 2025, with dietary supplements constituting over 65% of the market growing at 17% annually.",
+    "stance": "neutral",
+    "stance_target": "India nutraceutical market size and growth",
+    "evidence_type": "statistical",
+    "scope_conditions": "India nutraceutical industry, government ITA report (2020)",
+    "quoted_support": "The nutraceuticals market in India is expected to grow from an estimated $4 billion to $18 billion by the end of 2025. Dietary supplements segment constitutes over 65 percent of the nutraceutical market and is growing at a rate of 17 percent and is likely to be at 22 percent per year, especially when preventive health has become focus for all in the current pandemic.",
+    "numbers": ["$4 billion (base)", "$18 billion (projected by 2025)", "65% dietary supplements share", "17% annual growth rate", "22% projected growth rate"],
+    "entities": ["FSSAI", "Government of India"],
+    "time_period": "2020 report, projecting to 2025",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "india-nutraceuticals-industry"
+  },
+  {
+    "claim": "India imported USD 2.7 billion worth of nutraceuticals and allowed 100% FDI in nutraceutical manufacturing under automatic route, with FDI growing from USD 131.4 million (2012) to USD 584.7 million (2019).",
+    "stance": "neutral",
+    "stance_target": "India nutraceutical market openness to foreign investment",
+    "evidence_type": "statistical",
+    "scope_conditions": "India nutraceutical FDI, 2012-2019",
+    "quoted_support": "Currently, the Indian market imports US$ 2.7 billion worth of nutraceuticals. This sector also has opened significantly to attract foreign investments. Government of India (GOI) has opened 100 percent FDI in this manufacturing sector under automatic route... The Foreign Direct Investment (FDI) has increased from US$ 131.4 million in 2012 to US$584.7 million in 2019.",
+    "numbers": ["USD 2.7 billion imports", "100% FDI allowed", "USD 131.4 million FDI (2012)", "USD 584.7 million FDI (2019)"],
+    "entities": ["FSSAI", "Government of India"],
+    "time_period": "2012-2019, reported 2020",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "india-nutraceuticals-industry"
+  },
+  {
+    "claim": "FSSAI (Food Safety and Standards Authority of India) is the sole autonomous regulatory body for nutraceuticals/supplements in India under the Food Safety and Standards Act, 2006.",
+    "stance": "neutral",
+    "stance_target": "India's regulatory framework for supplements like Briyo Vitamin D3",
+    "evidence_type": "legal",
+    "scope_conditions": "India, as of 2020",
+    "quoted_support": "Food Safety and Standards Authority of India (FSSAI) is an autonomous regulatory body established under the Ministry of Health & Family Welfare to protect and promote public health. The FSSAI is governed by the Food Safety and Standards Act, 2006, which is charged with food safety supervision and regulation.",
+    "numbers": [],
+    "entities": ["FSSAI", "Ministry of Health & Family Welfare"],
+    "time_period": "2006 onwards",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "india-nutraceuticals-industry"
+  }
+]

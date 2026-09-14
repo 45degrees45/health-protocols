@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "GMP certification means an independent auditor assessed the manufacturer's quality management system — it does NOT mean FDA approval of the product.",
+    "stance": "supports",
+    "stance_target": "GMP certification is a quality-system signal, not a product safety guarantee",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "U.S. dietary supplement market; applicable globally as conceptual framework",
+    "quoted_support": "GMP certified supplements usually means a supplement brand claims an independent party audited its manufacturing system against GMP expectations. Importantly, GMP certification does not mean 'FDA approved.'",
+    "numbers": [],
+    "entities": ["FDA", "USP Verified", "NSF", "Informed-Sport"],
+    "time_period": "2025-2026",
+    "region": "United States (concept applies globally)",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-meaning-and-proof-in-2026"
+  },
+  {
+    "claim": "57.6% of U.S. adults reported using a dietary supplement in the last 30 days, and FDA has identified over 1,000 tainted products with hidden drug ingredients.",
+    "stance": "supports",
+    "stance_target": "Supplement quality verification matters at consumer scale",
+    "evidence_type": "statistical",
+    "scope_conditions": "United States",
+    "quoted_support": "In the U.S. alone, 57.6% of adults reported using a dietary supplement in the last 30 days. However, FDA also warns that some products contain hidden drug ingredients, and it has identified over a thousand tainted products in recent years.",
+    "numbers": ["57.6%", "over 1,000 tainted products"],
+    "entities": ["FDA"],
+    "time_period": "Recent years (pre-2026)",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-meaning-and-proof-in-2026"
+  },
+  {
+    "claim": "GMP-compliant (self-claimed) and GMP-certified (third-party audited) are distinct: self-claim has no external audit proof whereas certification provides a certificate with scope, site, dates, and certifier identity.",
+    "stance": "supports",
+    "stance_target": "Third-party GMP certification is more credible than self-declared GMP compliance",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Supplement manufacturing globally",
+    "quoted_support": "GMP compliant (self-claim): The company says it follows GMP rules. [Proof:] Internal SOPs, maybe a COA; often no public audit proof. Third-party GMP certification: An auditor assessed the facility/system against a standard. [Proof:] Certificate with scope, site, dates, and certifier identity.",
+    "numbers": [],
+    "entities": ["NSF", "USP Verified", "Informed-Sport", "NPA"],
+    "time_period": "2025-2026",
+    "region": "Global",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-meaning-and-proof-in-2026"
+  },
+  {
+    "claim": "GMP certification focuses on production processes (supplier qualification, ingredient testing, batch records, hygiene, in-process checks, finished product release) but does not certify product efficacy or exact dosage delivery.",
+    "stance": "supports",
+    "stance_target": "GMP certification scope and limitations for consumer evaluation",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "Dietary supplement manufacturing per FDA 21 CFR Part 111",
+    "quoted_support": "GMP supports supplement quality, but it does not prove clinical effectiveness or FDA approval.",
+    "numbers": [],
+    "entities": ["FDA", "21 CFR Part 111"],
+    "time_period": "2025-2026",
+    "region": "United States",
+    "confidence": "high",
+    "source_note_id": "gmp-certified-supplements-meaning-and-proof-in-2026"
+  }
+]

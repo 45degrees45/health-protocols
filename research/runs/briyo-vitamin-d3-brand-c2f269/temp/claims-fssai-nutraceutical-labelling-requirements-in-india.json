@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "FSSAI mandates that nutraceutical labels must carry the word 'Nutraceutical', an 'NOT FOR MEDICINAL USE' advisory, and warnings on side effects — and must not claim to prevent, treat, or cure any disease.",
+    "stance": "supports",
+    "stance_target": "FSSAI labelling rules specifically prohibit medicinal use claims on supplements",
+    "evidence_type": "legal",
+    "scope_conditions": "India, all FSSAI-regulated nutraceutical products",
+    "quoted_support": "The label should not claim that it has the property of preventing, treating or curing a human disease. [Mandatory label items include] An advisory warning 'NOT FOR MEDICINAL USE'.",
+    "numbers": [],
+    "entities": ["FSSAI", "ICMR"],
+    "time_period": "2025-2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-labelling-requirements-in-india"
+  },
+  {
+    "claim": "If a nutraceutical label makes a higher nutrient content claim, the nutrient must constitute at least 30% of RDA and must not exceed 1 RDA per serving.",
+    "stance": "supports",
+    "stance_target": "FSSAI sets quantitative RDA thresholds for nutrient content claims on supplement labels",
+    "evidence_type": "legal",
+    "scope_conditions": "India, nutraceutical products making nutrient content claims",
+    "quoted_support": "If a claim of higher nutrient content is made, the nutrient content shall not be less than thirty per cent of the recommended daily allowance and shall not exceed one RDA in any case.",
+    "numbers": ["minimum 30% of RDA", "maximum 1 RDA"],
+    "entities": ["FSSAI", "ICMR", "Codex Alimentarius Commission"],
+    "time_period": "2025-2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-labelling-requirements-in-india"
+  },
+  {
+    "claim": "Legal Metrology (Packaged Commodities) Rules 2011 impose penalties for nutraceutical labelling non-compliance: Rs. 25,000 for first violation, Rs. 50,000 for second, up to Rs. 1,00,000 plus up to one year imprisonment for repeated violations.",
+    "stance": "supports",
+    "stance_target": "Labelling non-compliance for Indian supplements carries significant financial and criminal penalties",
+    "evidence_type": "legal",
+    "scope_conditions": "India, packaged commodity labelling violations",
+    "quoted_support": "The fine may reach Rs. 25,000 for a first violation and Rs. 50,000 for a second. For further violations, the amount may increase to Rs. 1,00,000, and imprisonment of up to one year may also be imposed.",
+    "numbers": ["Rs. 25,000 first violation", "Rs. 50,000 second violation", "Rs. 1,00,000 further violations", "up to 1 year imprisonment"],
+    "entities": ["Legal Metrology (Packaged Commodities) Rules 2011"],
+    "time_period": "2025-2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-labelling-requirements-in-india"
+  },
+  {
+    "claim": "Nutraceuticals intended for use during pregnancy must carry explicit warnings stating 'not for use during pregnancy and lactation unless prescribed by the doctor'.",
+    "stance": "supports",
+    "stance_target": "FSSAI has specific labelling requirements for supplements that should not be used during pregnancy",
+    "evidence_type": "legal",
+    "scope_conditions": "India, special dietary supplements for therapeutic or pregnancy conditions",
+    "quoted_support": "If the nutraceutical should not be consumed by pregnant and breastfeeding women, it should be clearly stated that 'not for use during pregnancy and lactation unless prescribed by the doctor'.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "2025-2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-labelling-requirements-in-india"
+  },
+  {
+    "claim": "FSSAI nutraceutical labelling also falls under Ministry of AYUSH regulations for ayurvedic formulations, requiring the product to mention 'manufactured under license' if produced by an approved ayurvedic company.",
+    "stance": "neutral",
+    "stance_target": "Herbal/ayurvedic nutraceuticals face a dual regulatory system in India",
+    "evidence_type": "legal",
+    "scope_conditions": "India, ayurvedic or traditional ingredient nutraceuticals",
+    "quoted_support": "The Ministry of AYUSH deals with rules and regulations for ayurvedic or traditional drug products in association with FSSAI.",
+    "numbers": [],
+    "entities": ["Ministry of AYUSH", "FSSAI"],
+    "time_period": "2025-2026",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "fssai-nutraceutical-labelling-requirements-in-india"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "A Noida factory bust exposed large-scale counterfeit protein supplement manufacturing using starch and chalk powder as harmful fillers, with capacity to produce hundreds of kilograms of fake supplements daily.",
+    "stance": "neutral",
+    "stance_target": "Severity of counterfeit supplement problem in India",
+    "evidence_type": "empirical",
+    "scope_conditions": "India, protein supplement market, recent",
+    "quoted_support": "Authorities found the unit mixing harmful fillers like starch and chalk powder to mimic genuine products... The factory had the capacity to produce hundreds of kilograms of counterfeit supplements daily. Several tonnes of fake protein powders and low-quality raw materials were confiscated.",
+    "numbers": ["hundreds of kilograms daily", "several tonnes seized"],
+    "entities": ["FSSAI", "Noida"],
+    "time_period": "2024",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "the-truth-about-fake-protein-supplements-in-india-risks-and-regulations-pharmacy"
+  },
+  {
+    "claim": "Counterfeit supplements in India are distributed through gyms, fitness centers, and unauthorized online sellers — not just grey-market sources.",
+    "stance": "neutral",
+    "stance_target": "Distribution channels for fake supplements in India",
+    "evidence_type": "empirical",
+    "scope_conditions": "India, supplement retail",
+    "quoted_support": "These fake supplements, sold under the guise of reputable brands, were distributed through gyms, fitness centers, and unauthorized online sellers.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "2024",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "the-truth-about-fake-protein-supplements-in-india-risks-and-regulations-pharmacy"
+  },
+  {
+    "claim": "FSSAI (Food Safety and Standards Authority of India) has tightened regulations for dietary supplements but enforcement gaps remain, as demonstrated by the Noida counterfeit operation.",
+    "stance": "neutral",
+    "stance_target": "FSSAI regulatory effectiveness for supplement quality in India",
+    "evidence_type": "empirical",
+    "scope_conditions": "India, dietary supplement regulation",
+    "quoted_support": "The Food Safety and Standards Authority of India (FSSAI) has tightened regulations for dietary supplements, but cases like Noida highlight enforcement gaps.",
+    "numbers": [],
+    "entities": ["FSSAI", "India"],
+    "time_period": "2024",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "the-truth-about-fake-protein-supplements-in-india-risks-and-regulations-pharmacy"
+  },
+  {
+    "claim": "Fake supplements posing health risks in India include products lacking any quality checks or FSSAI certification, potentially causing liver damage, kidney issues, and other complications.",
+    "stance": "neutral",
+    "stance_target": "Health risks from unregulated supplements in India",
+    "evidence_type": "empirical",
+    "scope_conditions": "India, counterfeit supplement market",
+    "quoted_support": "These fake products lacked any quality checks or FSSAI certification, posing severe risks of liver damage, kidney issues, and other complications.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "2024",
+    "region": "India",
+    "confidence": "medium",
+    "source_note_id": "the-truth-about-fake-protein-supplements-in-india-risks-and-regulations-pharmacy"
+  }
+]

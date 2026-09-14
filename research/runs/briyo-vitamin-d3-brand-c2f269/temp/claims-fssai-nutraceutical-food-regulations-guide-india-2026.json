@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "All nutraceutical products must obtain an FSSAI license before manufacture or sale in India, including online sales — selling without an FSSAI license online is illegal.",
+    "stance": "supports",
+    "stance_target": "FSSAI licensing is mandatory for all channels including Amazon India",
+    "evidence_type": "legal",
+    "scope_conditions": "India, all nutraceutical sales channels",
+    "quoted_support": "Is it possible to sell nutraceutical products online without the FSSAI license? No, it is not legal to sell without an FSSAI license, online and offline.",
+    "numbers": ["15-60 days licensing timeline"],
+    "entities": ["FSSAI"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-food-regulations-guide-india-2026"
+  },
+  {
+    "claim": "FSSAI requires nutraceutical products to undergo stability testing, microbiological testing, heavy metal testing, and shelf-life studies as mandatory quality testing requirements.",
+    "stance": "supports",
+    "stance_target": "Genuine FSSAI compliance involves product testing, not just a license number",
+    "evidence_type": "legal",
+    "scope_conditions": "India, FSSAI nutraceutical quality testing requirements",
+    "quoted_support": "Testing is very important in the quality control of products. Types of Testing Required: Stability testing, Microbiological testing, Heavy metal testing, Shelf-life studies.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-food-regulations-guide-india-2026"
+  },
+  {
+    "claim": "Prohibited nutraceutical label claims include 'cures diseases', 'prevention of COVID or chronic diseases', and any unsubstantiated treatment claims.",
+    "stance": "supports",
+    "stance_target": "FSSAI explicitly lists COVID and chronic disease prevention as prohibited claims on supplements",
+    "evidence_type": "legal",
+    "scope_conditions": "India, FSSAI nutraceutical labelling compliance",
+    "quoted_support": "Prohibited Claims: 'Cures diseases', 'Prevention of COVID or chronic diseases', Any unsubstantiated treatment claims.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-nutraceutical-food-regulations-guide-india-2026"
+  }
+]

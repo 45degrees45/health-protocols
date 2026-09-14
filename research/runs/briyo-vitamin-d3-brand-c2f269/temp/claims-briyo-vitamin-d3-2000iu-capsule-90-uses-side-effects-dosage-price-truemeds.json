@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "Briyosis Soft Caps Private Limited is registered at BS 7 Indraprasth Complex, Opp Ellora Park Vegetable Market, Race Course Circle, Vadodara, Gujarat 390007, India.",
+    "stance": "neutral",
+    "stance_target": "Briyo brand registered address and legal entity",
+    "evidence_type": "empirical",
+    "scope_conditions": "Truemeds pharmacy listing manufacturer details, February 2025",
+    "quoted_support": "Manufacturer details: BS 7 INDRAPRASTH COMPLEX OPP ELLORA PARK VEGETABLE MARKET RACE COURSE CIRCLE VADODARA GJ 390007 IN — Country of origin: INDIA",
+    "numbers": [],
+    "entities": ["Briyosis Soft Caps Private Limited", "Vadodara", "Gujarat"],
+    "time_period": "2025",
+    "region": "India (Gujarat)",
+    "confidence": "high",
+    "source_note_id": "briyo-vitamin-d3-2000iu-capsule-90-uses-side-effects-dosage-price-truemeds"
+  },
+  {
+    "claim": "The capsule contains Gelatin, Soybean Oil, and Purified Water as excipients in addition to Vitamin D3 (Cholecalciferol) 2000 IU as the active ingredient.",
+    "stance": "neutral",
+    "stance_target": "Briyo Vitamin D3 full ingredient list",
+    "evidence_type": "empirical",
+    "scope_conditions": "Truemeds pharmacy ingredient disclosure, reviewed by medical professionals February 2025",
+    "quoted_support": "Vitamin D3 (Cholecalciferol): Vitamin D3, also known as cholecalciferol... Other Ingredients: Gelatin, Soybean Oil, Purified water.",
+    "numbers": ["2000 IU"],
+    "entities": ["Cholecalciferol", "Gelatin", "Soybean Oil"],
+    "time_period": "2025",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-vitamin-d3-2000iu-capsule-90-uses-side-effects-dosage-price-truemeds"
+  },
+  {
+    "claim": "Truemeds price for Briyo Vitamin D3 2000 IU 90 capsules is Rs 399.63 (approximately 10% off MRP of Rs 499), with product expiry on or after January 2027.",
+    "stance": "neutral",
+    "stance_target": "Briyo Vitamin D3 pricing on alternative pharmacy platforms",
+    "evidence_type": "empirical",
+    "scope_conditions": "Truemeds platform pricing, September 2026",
+    "quoted_support": "Old MRP ₹499 — MRP ₹444.03 — ₹399.63 — ₹4.93/Units — 10% off — Expiry on or after: January 2027",
+    "numbers": ["Rs 499 MRP", "Rs 444.03", "Rs 399.63", "Rs 4.93/unit", "10% off"],
+    "entities": ["Truemeds", "Briyosis Soft Caps Private Limited"],
+    "time_period": "September 2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-vitamin-d3-2000iu-capsule-90-uses-side-effects-dosage-price-truemeds"
+  },
+  {
+    "claim": "Truemeds flags a 50%-cheaper substitute for Briyo Vitamin D3: Calciquick D3 2K Capsule 10 by Dr. Morepen Limited at Rs 24.67 for 10 units (Rs 2.47/unit).",
+    "stance": "refutes",
+    "stance_target": "Briyo Vitamin D3 value-for-money claim relative to other D3 2000 IU products",
+    "evidence_type": "empirical",
+    "scope_conditions": "Truemeds recommended substitute section, September 2026",
+    "quoted_support": "Recommended Substitute — 50% CHEAPER — Calciquick D3 2K Capsule 10 — Dr. Morepen Limited — ₹24.67 — ₹2.47/Units — 6059 users bought this instead",
+    "numbers": ["50% cheaper", "Rs 24.67 for 10 units", "Rs 2.47/unit", "6059 users bought substitute"],
+    "entities": ["Calciquick D3 2K", "Dr. Morepen Limited", "Truemeds"],
+    "time_period": "September 2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-vitamin-d3-2000iu-capsule-90-uses-side-effects-dosage-price-truemeds"
+  },
+  {
+    "claim": "Briyosis also manufactures Coenzyme Q10 200mg and Flaxseed Oil 1000mg capsules, both listed out of stock on Truemeds, indicating a broader supplement product line.",
+    "stance": "neutral",
+    "stance_target": "Briyo/Briyosis product range breadth",
+    "evidence_type": "empirical",
+    "scope_conditions": "Truemeds brand product listing, September 2026",
+    "quoted_support": "More Products By Briyosis Soft Caps Private Limited: Briyo Coenzyme Q10 200Mg Capsule 60 — MRP ₹1045.55 — Out of Stock. Briyo Flaxseed Oil 1000Mg Capsule 60 — MRP ₹462.71 — Out of Stock.",
+    "numbers": ["Rs 1045.55 for CoQ10 200mg 60 capsules", "Rs 462.71 for Flaxseed Oil 1000mg 60 capsules"],
+    "entities": ["Briyosis Soft Caps Private Limited", "Coenzyme Q10", "Flaxseed Oil"],
+    "time_period": "September 2026",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "briyo-vitamin-d3-2000iu-capsule-90-uses-side-effects-dosage-price-truemeds"
+  }
+]

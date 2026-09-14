@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "FSSAI Central License for nutraceuticals costs ₹7,500 per year plus taxes, valid for 1-5 years, and requires a blueprint of manufacturing unit, equipment list, recall plan, water analysis report, and Form IX among other documents.",
+    "stance": "neutral",
+    "stance_target": "FSSAI Central License requirements and costs for Indian nutraceutical manufacturers",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers, importers, distributors applying for Central FSSAI License",
+    "quoted_support": "The per-year charge of FSSAI Central License is 7500 rupees plus taxes. The FSSAI Central License remain valid for 1 to 5 years, depending on the application request.",
+    "numbers": ["₹7,500/year", "1 to 5 years validity"],
+    "entities": ["FSSAI", "FoSCoS", "CDSCO", "CliniExperts"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "food-supplements-license-fssai-registration-for-nutraceuticals-in-form-c-cliniex"
+  },
+  {
+    "claim": "The FSSAI license application process for nutraceuticals takes 60-90 days for license grant after satisfactory scrutiny, with a 30-day window to fix deficiencies before rejection.",
+    "stance": "neutral",
+    "stance_target": "FSSAI licensing timeline for Indian nutraceutical brands",
+    "evidence_type": "expert-opinion",
+    "scope_conditions": "India; FSSAI Form B applicants for nutraceutical licenses",
+    "quoted_support": "The Licensing Authority tells FBOs to fix and complete their application within 30 days. If not, it may be rejected. After satisfactory scrutiny, the Licensing Authority grants the FSSAI License to the applicant within 60 to 90 days.",
+    "numbers": ["30 days to fix deficiencies", "60 to 90 days for license grant"],
+    "entities": ["FSSAI", "Food Safety Officer", "FoSCoS"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "food-supplements-license-fssai-registration-for-nutraceuticals-in-form-c-cliniex"
+  },
+  {
+    "claim": "Multi-state nutraceutical operators in India need a Central License for the main office plus separate state licenses for each operational unit.",
+    "stance": "neutral",
+    "stance_target": "Multi-state FSSAI licensing requirements for Indian nutraceutical brands",
+    "evidence_type": "legal",
+    "scope_conditions": "India; FBOs operating across multiple states",
+    "quoted_support": "If an FBO operates in multiple states, they need a Central License for their main office and separate licenses for each unit. Each unit needs a license based on its capacity or turnover from the relevant authorities.",
+    "numbers": [],
+    "entities": ["FSSAI"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "food-supplements-license-fssai-registration-for-nutraceuticals-in-form-c-cliniex"
+  },
+  {
+    "claim": "FSSAI Form C license scope covers manufacturing, marketing, importing (central), storage, distribution, wholesaler, retailer, transporter, and exporter activities — one license covers multiple business activities at the same premises.",
+    "stance": "neutral",
+    "stance_target": "Scope and comprehensiveness of FSSAI licensing for nutraceutical supply chain",
+    "evidence_type": "legal",
+    "scope_conditions": "India; all food business operators in nutraceutical supply chain",
+    "quoted_support": "Form C covers various licenses, including manufacturing, marketing, importing (central), storage, distribution, wholesaler, retailer, transporter, and exporter.",
+    "numbers": [],
+    "entities": ["FSSAI", "FoSCoS"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "food-supplements-license-fssai-registration-for-nutraceuticals-in-form-c-cliniex"
+  }
+]

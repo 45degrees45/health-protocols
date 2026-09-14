@@ -1,0 +1,72 @@
+[
+  {
+    "claim": "All nutraceutical manufacturers, relabellers/brand owners, importers, and marketers in India must hold a 14-digit FSSAI License; almost no practical exemptions exist for nutraceutical firms.",
+    "stance": "supports",
+    "stance_target": "FSSAI licensing is mandatory for all entities in India's nutraceutical supply chain",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical category (Category 13.6) under FSS Act 2006",
+    "quoted_support": "All individuals associated with the food business of Health Supplements and Nutraceuticals such as the manufacture, rebranding, repackaging, and importation are required to hold an appropriate 14 digit FSSAI License in accordance with the FOOD SAFETY AND STANDARDS ACT, 2006.",
+    "numbers": ["14 digit FSSAI License"],
+    "entities": ["FSSAI", "Food Safety and Standards Act 2006", "FoSCoS"],
+    "time_period": "Current (FSS Act 2006 onwards)",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-license-decoded-for-nutraceuticals-in-india"
+  },
+  {
+    "claim": "FSSAI license fees for nutraceuticals: State License ₹3,000-₹5,000/year (by production capacity); Central License ₹7,500/year; Basic Registration ₹100/year.",
+    "stance": "neutral",
+    "stance_target": "FSSAI regulatory compliance cost context for Indian nutraceutical brands",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers under Category 13.6",
+    "quoted_support": "Registration (Basic) ₹100 per year; State License ₹3,000 - ₹5,000 per year (depending on production capacity); Central License ₹7,500 per year",
+    "numbers": ["₹100/year", "₹3,000-₹5,000/year", "₹7,500/year"],
+    "entities": ["FSSAI", "FoSCoS"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-license-decoded-for-nutraceuticals-in-india"
+  },
+  {
+    "claim": "FSSAI license validity ranges from 1 to 5 years at the FBO's discretion, renewable via FoSCoS Portal up to 30 days before expiry.",
+    "stance": "neutral",
+    "stance_target": "FSSAI license renewal requirements for Indian nutraceutical brands",
+    "evidence_type": "legal",
+    "scope_conditions": "India; all FSSAI-licensed Food Business Operators",
+    "quoted_support": "The validity period of a License issued under the Act shall extend to a minimum period of 1 year and a maximum period of 5 years. The choice of validity period shall be in the hands of the Food Business Operator.",
+    "numbers": ["1 year minimum", "5 years maximum", "30 days before expiry for renewal"],
+    "entities": ["FSSAI", "FoSCoS"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-license-decoded-for-nutraceuticals-in-india"
+  },
+  {
+    "claim": "Nutraceutical FSSAI applicants must submit a recall plan as a mandatory document, showing how defective batches would be recalled — mandatory for Category 13.6.",
+    "stance": "supports",
+    "stance_target": "India nutraceutical regulatory compliance requires batch recall capability",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical manufacturers under Category 13.6",
+    "quoted_support": "Recall Plan: A mandatory document showing how you would recall defective batches.",
+    "numbers": [],
+    "entities": ["FSSAI", "FoSCoS"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-license-decoded-for-nutraceuticals-in-india"
+  },
+  {
+    "claim": "The FSSAI's nutraceutical regulations specifically distinguish between 'food' and 'drug', ensuring products marketed as health supplements cannot make disease treatment/cure claims.",
+    "stance": "supports",
+    "stance_target": "Indian regulatory framework prevents nutraceuticals from making medicinal claims",
+    "evidence_type": "legal",
+    "scope_conditions": "India; nutraceutical and health supplement category",
+    "quoted_support": "FSSAI has played a vital role in distinguishing between 'food' and 'drug.' It makes sure that products such as Health Supplements, Nutraceuticals, Food for Special Dietary Use, and Functional Foods are fit for consumption without any misleading cure claims.",
+    "numbers": [],
+    "entities": ["FSSAI", "Food Safety and Standards Act 2006"],
+    "time_period": "Current",
+    "region": "India",
+    "confidence": "high",
+    "source_note_id": "fssai-license-decoded-for-nutraceuticals-in-india"
+  }
+]
