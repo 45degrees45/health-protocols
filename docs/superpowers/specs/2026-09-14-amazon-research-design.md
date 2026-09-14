@@ -1,6 +1,6 @@
 # Amazon Health Links — Design Spec
 **Date:** 2026-09-14
-**GitHub Pages URL:** https://45degrees45.github.io/amazon-health-links/
+**GitHub Pages URL:** https://45degrees45.github.io/health-protocols/
 
 ---
 
@@ -33,7 +33,7 @@ A GitHub Pages website that publishes personal health + environmental product pr
 ## Repo Structure
 
 ```
-amazon-health-links/
+health-protocols/
 │
 ├── index.html                  ← homepage, links to all 3 protocols + research hub
 ├── my-protocol.html            ← personal protocol page
@@ -111,7 +111,7 @@ One caption per protocol. Format:
 ```
 [1-2 emoji] [Hook line about the protocol]
 Full research + Amazon links below 👇
-https://45degrees45.github.io/amazon-health-links/[protocol].html
+https://45degrees45.github.io/health-protocols/[protocol].html
 #health #supplements #biohacking [relevant tags]
 ```
 
@@ -139,7 +139,7 @@ PDF to save offline:
 
 ## Amazon Associates
 
-- Site registered under: https://45degrees45.github.io/amazon-health-links/
+- Site registered under: https://45degrees45.github.io/health-protocols/
 - All product links use Amazon Associates affiliate tags
 - Each product link format: `https://www.amazon.com/dp/[ASIN]?tag=[associate-tag]`
 
@@ -148,7 +148,7 @@ PDF to save offline:
 ## Implementation Phases
 
 ### Phase 1 — Repo + Site Scaffold
-- Create GitHub repo `amazon-health-links` under `45degreesolutions`
+- Create GitHub repo `health-protocols` under `45degreesolutions`
 - Set up GitHub Pages
 - Build HTML/CSS scaffold (homepage + 3 protocol pages + research hub shell)
 
