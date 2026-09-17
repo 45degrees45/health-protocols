@@ -1,0 +1,173 @@
+{
+  "vitd3": {
+    "name": "Briyosis Vitamin D3 2000 IU",
+    "asin": "B096HCT971",
+    "why": "Immune function, bone health, mood — daily essential",
+    "research": "research/vitamin-d3-k2.html"
+  },
+  "whey": {
+    "name": "MuscleBlaze Raw Whey Protein",
+    "asin": "B06XGNT22C",
+    "why": "High-quality protein for muscle recovery and daily intake",
+    "research": "research/whey-protein.html"
+  },
+  "magnesium": {
+    "name": "TrueBasics Magnesium",
+    "asin": "B07QST67VZ",
+    "why": "Sleep quality, muscle recovery, stress reduction",
+    "research": "research/magnesium-glycinate.html"
+  },
+  "spirulina": {
+    "name": "Parry Wellness Organic Spirulina",
+    "asin": "B00CB1VNZW",
+    "why": "Dense whole-food nutrition: protein, B-vitamins, iron, antioxidants",
+    "research": "research/spirulina.html",
+    "note": "2 tablets with breakfast or brunch"
+  },
+  "glucosamine": {
+    "name": "HealthKart Glucosamine + Chondroitin",
+    "asin": "B091NDBGVK",
+    "why": "Cartilage repair and joint cushioning — clinically studied for injury recovery",
+    "research": "research/glucosamine.html"
+  },
+  "wrist-support": {
+    "name": "Boldfit Wrist Supporter",
+    "asin": "B08WLWGKY2",
+    "why": "Compression and stabilisation during wrist injury recovery",
+    "research": "research/wrist-support.html"
+  },
+  "ankle-support": {
+    "name": "Boldfit Compression Ankle Support",
+    "asin": "B09R22MT73",
+    "why": "Compression and stabilisation for ankle injury recovery",
+    "research": "research/ankle-support.html"
+  },
+  "centrum": {
+    "name": "Centrum Multivitamin",
+    "asin": "B0BD2H2XJ2",
+    "why": "Complete daily multivitamin — covers all essential micronutrients",
+    "research": "research/multivitamin.html"
+  },
+  "pea-protein": {
+    "name": "Nutrabay Pure Pea Protein Isolate",
+    "asin": "B09BD14TNJ",
+    "why": "Complete plant-based protein — high leucine, supports muscle synthesis",
+    "research": "research/pea-protein.html",
+    "note": "Can cause bloating for some. Always take with food — never on empty stomach."
+  },
+  "algae-omega3": {
+    "name": "WOW Algae Omega-3 + Astaxanthin",
+    "asin": "B0G48FW22Q",
+    "why": "Plant-based Omega-3 — algae is the original source fish get their Omega-3 from",
+    "research": "research/algae-omega3.html",
+    "note": "Store in refrigerator to prevent rancidity."
+  },
+  "kinesio-tape": {
+    "name": "Boldfit Kinesiology Tape",
+    "asin": "B0CLB39J26",
+    "why": "Supports para-spinal muscles and disc bulge recovery — reduces pain, improves posture and circulation during healing",
+    "research": "research/kinesio-tape.html"
+  },
+  "collagen": {
+    "name": "Collagen Peptides",
+    "asin": null,
+    "why": "Skin elasticity, joint support, bone matrix — collagen production drops with age",
+    "research": "research/collagen.html"
+  },
+  "vit-c-serum": {
+    "name": "Vitamin C Serum (Topical)",
+    "asin": null,
+    "why": "Brightening, antioxidant protection, collagen synthesis — apply morning before SPF",
+    "research": "research/vitamin-c-serum.html"
+  },
+  "moisturiser-spf": {
+    "name": "Moisturiser + SPF 50",
+    "asin": null,
+    "why": "Daily sun protection — the single most impactful anti-ageing skincare step",
+    "research": "research/sunscreen.html"
+  },
+  "retinol": {
+    "name": "Retinol / Retinoid",
+    "asin": null,
+    "why": "Cell turnover, anti-ageing, acne — strongest topical evidence of any skincare ingredient. Use at night only.",
+    "research": "research/retinol.html"
+  },
+  "niacinamide": {
+    "name": "Niacinamide Serum 10%",
+    "asin": null,
+    "why": "Pore minimising, brightening, barrier repair — gentle enough for daily use",
+    "research": "research/niacinamide.html"
+  },
+  "vit-c-oral": {
+    "name": "Vitamin C (Oral) 500mg",
+    "asin": null,
+    "why": "Internal antioxidant — works synergistically with topical vitamin C for skin health",
+    "research": "research/vitamin-c.html"
+  },
+  "zinc": {
+    "name": "Zinc Bisglycinate",
+    "asin": null,
+    "why": "Sebum regulation, wound healing, anti-inflammatory — key for acne-prone skin",
+    "research": "research/zinc.html"
+  },
+  "shampoo": {
+    "name": "Anti-Hairfall Shampoo",
+    "asin": null,
+    "why": "Strengthens hair shaft, reduces breakage, calms scalp inflammation",
+    "research": "research/haircare.html"
+  },
+  "hair-oil": {
+    "name": "Scalp Nourishing Hair Oil",
+    "asin": null,
+    "why": "Stimulates follicles, reduces scalp dryness, improves hair thickness with regular use",
+    "research": "research/haircare.html"
+  },
+  "biotin": {
+    "name": "Biotin 5000mcg",
+    "asin": null,
+    "why": "Keratin production — supports hair and nail growth from within",
+    "research": "research/biotin.html"
+  },
+  "omega3": {
+    "name": "Omega-3 Fish Oil (1000mg EPA+DHA)",
+    "asin": null,
+    "why": "Heart health, brain protection, anti-inflammation — critical for cardiovascular ageing",
+    "research": "research/omega-3.html"
+  },
+  "b12": {
+    "name": "B12 Methylcobalamin",
+    "asin": null,
+    "why": "Energy, nerve health, DNA synthesis — absorption declines with age and stress",
+    "research": "research/b12.html"
+  },
+  "coq10": {
+    "name": "CoQ10 Ubiquinol 100mg",
+    "asin": null,
+    "why": "Mitochondrial fuel — energy production, heart health, antioxidant. Natural levels drop after 40.",
+    "research": "research/coq10.html"
+  },
+  "ashwagandha": {
+    "name": "Ashwagandha KSM-66",
+    "asin": null,
+    "why": "Cortisol regulation, testosterone support, stamina, stress resilience — most studied adaptogen",
+    "research": "research/ashwagandha.html"
+  },
+  "probiotics": {
+    "name": "Probiotics (Multi-Strain)",
+    "asin": null,
+    "why": "Gut microbiome diversity, immune modulation, digestion, inflammation control",
+    "research": "research/probiotics.html"
+  },
+  "hepa": {
+    "name": "HEPA Air Purifier",
+    "asin": null,
+    "why": "Remove indoor particulates, dust, VOCs — air quality directly affects energy and sleep",
+    "research": "research/air-purifier.html"
+  },
+  "water-filter": {
+    "name": "Water Filter (Pitcher)",
+    "asin": null,
+    "why": "Remove chlorine, heavy metals, microplastics from drinking water",
+    "research": "research/water-filter.html"
+  }
+}

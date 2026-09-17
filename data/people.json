@@ -1,0 +1,71 @@
+{
+  "sai": {
+    "display": "Sai's Protocol",
+    "subtitle": "Personalised hair care and skincare stack",
+    "header_color": "#7c3aed",
+    "tldr": [
+      "Hair care focused on reducing hairfall and improving scalp health",
+      "Skincare routine with proven actives — vitamin C, retinol, SPF",
+      "Internal supplements to support skin and hair from within",
+      "Add specific product names and ASINs as you find what works"
+    ],
+    "sections": [
+      {
+        "title": "Hair Care",
+        "col_header": "Why It Helps",
+        "products": ["shampoo", "hair-oil", "biotin"]
+      },
+      {
+        "title": "Skincare",
+        "col_header": "What It Does",
+        "products": ["vit-c-serum", "moisturiser-spf", "retinol", "niacinamide", "collagen", "zinc", "vit-c-oral"]
+      }
+    ]
+  },
+  "ruhi": {
+    "display": "Ruhi's Protocol",
+    "subtitle": "Personalised skincare routine — topical + internal",
+    "header_color": "#be185d",
+    "tldr": [
+      "Skincare focused on brightening, barrier repair, and sun protection",
+      "Topical actives layered in the right order for maximum effect",
+      "Internal supplements that improve skin from inside out",
+      "SPF every morning — non-negotiable"
+    ],
+    "sections": [
+      {
+        "title": "Topical Skincare",
+        "col_header": "What It Does",
+        "products": ["vit-c-serum", "niacinamide", "moisturiser-spf", "retinol"]
+      },
+      {
+        "title": "Supplements for Skin",
+        "col_header": "Skin Benefit",
+        "products": ["collagen", "vit-c-oral", "zinc"]
+      }
+    ]
+  },
+  "prakash": {
+    "display": "Prakash's Protocol",
+    "subtitle": "Mid-life wellness — energy, heart, joints, and hormonal balance",
+    "header_color": "#0369a1",
+    "tldr": [
+      "Targeted at the changes that happen after 40 — energy dip, joint stiffness, recovery",
+      "Covers: vitamin D3 deficiency, mitochondrial support, gut health, stress hormones",
+      "Ashwagandha for cortisol and testosterone balance — one of the most studied adaptogens",
+      "Stack on top of good sleep and exercise for best results"
+    ],
+    "sections": [
+      {
+        "title": "Core Supplements",
+        "col_header": "Why It's Essential",
+        "products": ["vitd3", "magnesium", "omega3", "b12", "coq10", "ashwagandha", "probiotics"]
+      },
+      {
+        "title": "Environmental",
+        "col_header": "Why It Matters",
+        "products": ["hepa", "water-filter"]
+      }
+    ]
+  }
+}
