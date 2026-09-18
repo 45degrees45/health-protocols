@@ -35,7 +35,7 @@ def product_row_div(p):
         <div class="product-why">{p["why"]}</div>
       </div>
       <div class="product-actions">
-        <a href="{url}" class="btn-buy">Order →</a>{research_link}
+        <a href="{url}" class="btn-buy">Buy on Amazon →</a>{research_link}
       </div>
     </div>'''
 
