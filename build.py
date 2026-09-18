@@ -17,33 +17,35 @@ def amazon_url(asin):
     return f'https://www.amazon.in/?tag={TAG}'
 
 
-def product_row(p):
+def product_row_div(p):
     url = amazon_url(p.get('asin'))
+    asin = p.get('asin', '')
+    img_src = f'assets/images/products/{asin}.jpg' if asin else ''
     note_html = ''
     if p.get('note'):
-        note_html = f' <small style="color:#6b7280">⚠️ {p["note"]}</small>'
+        note_html = f'\n          <small>{p["note"]}</small>'
     research = p.get('research', '#')
-    research_link = f'<a href="{research}">Deep dive →</a>' if research != '#' else '—'
-    return f'''      <tr>
-        <td><strong>{p["name"]}</strong>{note_html}</td>
-        <td>{p["why"]}</td>
-        <td>{research_link}</td>
-        <td><a href="{url}" class="btn btn-amazon btn-sm">Buy →</a></td>
-      </tr>'''
+    research_link = ''
+    if research and research != '#':
+        research_link = f'\n        <a href="{research}" class="btn-research">Research</a>'
+    return f'''    <div class="product-row">
+      <img class="product-img" src="{img_src}" alt="" onerror="this.style.display='none'">
+      <div class="product-text">
+        <div class="product-name">{p["name"]}{note_html}</div>
+        <div class="product-why">{p["why"]}</div>
+      </div>
+      <div class="product-actions">
+        <a href="{url}" class="btn-buy">Order →</a>{research_link}
+      </div>
+    </div>'''
 
 
-def section_table(section, products_data):
-    col = section.get('col_header', 'Why It Helps')
-    rows = '\n'.join(product_row(products_data[pid]) for pid in section['products'] if pid in products_data)
-    return f'''  <h2 class="section-title">{section["title"]}</h2>
-  <table class="product-table">
-    <thead>
-      <tr><th>Product</th><th>{col}</th><th>Research</th><th>Amazon</th></tr>
-    </thead>
-    <tbody>
+def section_block(section, products_data):
+    rows = '\n'.join(product_row_div(products_data[pid]) for pid in section['products'] if pid in products_data)
+    return f'''  <div class="section-label">{section["title"]}</div>
+  <div class="product-grid">
 {rows}
-    </tbody>
-  </table>'''
+  </div>'''
 
 
 def tldr_items(items):
@@ -51,7 +53,7 @@ def tldr_items(items):
 
 
 def build_page(slug, person, products_data):
-    sections_html = '\n\n'.join(section_table(s, products_data) for s in person['sections'])
+    sections_html = '\n\n'.join(section_block(s, products_data) for s in person['sections'])
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +66,7 @@ def build_page(slug, person, products_data):
 <body>
 
 <nav>
-  <span class="logo">45° Health Protocols</span>
+  <span class="logo">45° Health</span>
   <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="{slug}-protocol.html">{person["display"]}</a></li>
@@ -72,7 +74,7 @@ def build_page(slug, person, products_data):
   </ul>
 </nav>
 
-<div class="page-header" style="background:{person["header_color"]};">
+<div class="page-header">
   <h1>{person["display"]}</h1>
   <p>{person["subtitle"]}</p>
 </div>
