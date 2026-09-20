@@ -268,6 +268,33 @@ p { color: #777; font-size: 0.9rem; line-height: 1.7; margin-bottom: 1.25rem; }
 }
 .card p { font-size: 0.85rem; color: #666; margin-bottom: 1rem; line-height: 1.5; }
 
+/* ADD ALL TO CART BAR */
+.cart-all-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 2px solid #16a34a;
+}
+.cart-all-bar span { font-size: 0.82rem; color: #888; }
+.btn-cart-all {
+  display: inline-block;
+  padding: 0.55rem 1.4rem;
+  background: #16a34a;
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+  letter-spacing: 0.5px;
+}
+.btn-cart-all:hover { background: #15803d; text-decoration: none; }
+
 /* SHARE BAR */
 .share-bar {
   background: var(--surface);
