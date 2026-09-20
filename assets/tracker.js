@@ -43,7 +43,7 @@
     bar.className = 'cart-all-bar';
 
     var msg = document.createElement('span');
-    msg.textContent = cart.count + ' product' + (cart.count > 1 ? 's' : '') + ' in this protocol';
+    msg.textContent = cart.count + ' product' + (cart.count > 1 ? 's' : '') + ' in this section';
     bar.appendChild(msg);
 
     var btn = document.createElement('a');
@@ -93,21 +93,14 @@
       row.insertBefore(imgCell, row.firstChild);
     });
 
-    // Add-all-to-cart bar — injected after TL;DR and before share bar
-    var allBuyHrefs = Array.from(document.querySelectorAll('a.btn-buy, a.btn-amazon'))
-      .map(function (a) { return a.href; });
-    var cart = buildCartUrl(allBuyHrefs);
-
-    if (cart) {
-      var tldr = document.querySelector('.tldr');
-      if (tldr && tldr.nextSibling) {
-        injectCartBar(cart, tldr.nextSibling);
+    // Add-all-to-cart bar — one per product-grid section
+    document.querySelectorAll('.product-grid').forEach(function (grid) {
+      var hrefs = Array.from(grid.querySelectorAll('a.btn-buy, a.btn-amazon'))
+        .map(function (a) { return a.href; });
+      var cart = buildCartUrl(hrefs);
+      if (cart) {
+        injectCartBar(cart, grid.nextSibling || grid.parentNode.lastChild);
       }
-
-      var shareBar = document.querySelector('.share-bar');
-      if (shareBar) {
-        injectCartBar(cart, shareBar);
-      }
-    }
+    });
   });
 })();
