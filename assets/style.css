@@ -92,6 +92,16 @@ nav ul a:hover { color: var(--text); }
 }
 .page-header p { font-size: 0.95rem; color: var(--muted); font-style: italic; }
 
+/* PAGE HEADER IMAGE */
+.page-header-img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  object-position: center 40%;
+  display: block;
+  border-bottom: 1px solid var(--border);
+}
+
 /* CONTAINER */
 .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.25rem; }
 
@@ -418,6 +428,80 @@ p { color: var(--muted); font-size: 0.92rem; line-height: 1.7; margin-bottom: 1.
 .research-card { background: var(--surface); padding: 1.25rem; }
 .research-card h4 { margin-bottom: 0.4rem; font-size: 1rem; color: var(--text); }
 .research-card p { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.75rem; }
+
+/* HABIT LIST (Happiness Protocol) */
+.habit-list {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+.habit {
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  gap: 0.75rem 1rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--border);
+  align-items: start;
+}
+.habit:last-child { border-bottom: none; }
+.habit-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+  padding-top: 0.1rem;
+}
+.habit-name {
+  font-size: 0.97rem;
+  color: #2a1e14;
+  margin-bottom: 0.3rem;
+  font-family: var(--font-body);
+}
+.habit-desc {
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.65;
+  font-style: italic;
+}
+.habit-tag {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-family: var(--font-ui);
+  letter-spacing: 0.5px;
+  padding: 0.15rem 0.6rem;
+  border-radius: 2px;
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+/* CALLOUT / PERSONAL NOTE */
+.personal-note {
+  background: var(--surface);
+  border-left: 3px solid var(--accent);
+  padding: 1.25rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 6px 6px 0;
+}
+.personal-note-label {
+  font-size: 0.7rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-family: var(--font-ui);
+  margin-bottom: 0.4rem;
+}
+.personal-note h3 {
+  font-size: 1rem;
+  color: #2a1e14;
+  font-weight: normal;
+  margin-bottom: 0.6rem;
+}
+.personal-note p {
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 0;
+}
 
 /* FOOTER */
 footer {
