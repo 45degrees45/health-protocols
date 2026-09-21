@@ -3,6 +3,7 @@
     "display": "Sai's Protocol",
     "subtitle": "Personalised hair care and skincare stack",
     "header_color": "#7c3aed",
+    "hero_img": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&auto=format&fit=crop&q=80",
     "tldr": [
       "Hair care focused on reducing hairfall and improving scalp health",
       "Skincare routine with proven actives — vitamin C, retinol, SPF",
@@ -26,6 +27,7 @@
     "display": "Ruhi's Protocol",
     "subtitle": "Personalised skincare routine — topical + internal",
     "header_color": "#be185d",
+    "hero_img": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&auto=format&fit=crop&q=80",
     "tldr": [
       "Skincare focused on brightening, barrier repair, and sun protection",
       "Topical actives layered in the right order for maximum effect",
@@ -49,6 +51,7 @@
     "display": "Prakash's Protocol",
     "subtitle": "Mid-life wellness — energy, heart, joints, and hormonal balance",
     "header_color": "#0369a1",
+    "hero_img": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&auto=format&fit=crop&q=80",
     "tldr": [
       "Targeted at the changes that happen after 40 — energy dip, joint stiffness, recovery",
       "Covers: vitamin D3 deficiency, mitochondrial support, gut health, stress hormones",

@@ -54,6 +54,9 @@ def tldr_items(items):
 
 def build_page(slug, person, products_data):
     sections_html = '\n\n'.join(section_block(s, products_data) for s in person['sections'])
+    hero_img_html = ''
+    if person.get('hero_img'):
+        hero_img_html = f'\n<img class="page-header-img" src="{person["hero_img"]}" alt="">'
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,7 +76,7 @@ def build_page(slug, person, products_data):
     <li><a href="research/index.html">Research</a></li>
   </ul>
 </nav>
-
+{hero_img_html}
 <div class="page-header">
   <h1>{person["display"]}</h1>
   <p>{person["subtitle"]}</p>
