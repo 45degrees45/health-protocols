@@ -310,6 +310,21 @@ p { color: var(--muted); font-size: 0.92rem; line-height: 1.7; margin-bottom: 1.
 .card p { font-size: 0.85rem; color: var(--muted); margin-bottom: 1rem; line-height: 1.55; font-style: italic; }
 .card a.btn-primary { font-family: var(--font-ui); }
 
+/* INSTAGRAM LINK BUTTON */
+.btn-instagram {
+  display: inline-block;
+  padding: 0.45rem 1rem;
+  font-size: 0.78rem;
+  color: #c13584;
+  text-decoration: none;
+  font-family: var(--font-ui);
+  border: 1px solid #e1a0c4;
+  border-radius: 3px;
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+.btn-instagram:hover { background: #c13584; color: #fff; text-decoration: none; }
+
 /* RESEARCH LINKS ROW */
 .research-links {
   display: flex;
