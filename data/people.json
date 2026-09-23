@@ -4,6 +4,9 @@
     "subtitle": "Personalised hair care and skincare stack",
     "header_color": "#7c3aed",
     "hero_img": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&auto=format&fit=crop&q=80",
+    "instagram_posts": [
+      { "url": "https://www.instagram.com/p/DYDH4DutwJ1/", "label": "Skin, hair & nails — my post" }
+    ],
     "tldr": [
       "Hair care focused on reducing hairfall and improving scalp health",
       "Skincare routine with proven actives — vitamin C, retinol, SPF",
@@ -28,6 +31,9 @@
     "subtitle": "Personalised skincare routine — topical + internal",
     "header_color": "#be185d",
     "hero_img": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=1200&auto=format&fit=crop&q=80",
+    "instagram_posts": [
+      { "url": "https://www.instagram.com/p/DYDH4DutwJ1/", "label": "Skin, hair & nails — my post" }
+    ],
     "tldr": [
       "Skincare focused on brightening, barrier repair, and sun protection",
       "Topical actives layered in the right order for maximum effect",

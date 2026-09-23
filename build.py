@@ -52,11 +52,22 @@ def tldr_items(items):
     return '\n'.join(f'      <li>{item}</li>' for item in items)
 
 
+def instagram_links_html(posts):
+    if not posts:
+        return ''
+    links = '\n'.join(
+        f'  <a href="{p["url"]}" target="_blank" rel="noopener" class="btn-instagram">📷 {p["label"]}</a>'
+        for p in posts
+    )
+    return f'\n<div class="insta-posts">\n{links}\n</div>\n'
+
+
 def build_page(slug, person, products_data):
     sections_html = '\n\n'.join(section_block(s, products_data) for s in person['sections'])
     hero_img_html = ''
     if person.get('hero_img'):
         hero_img_html = f'\n<img class="page-header-img" src="{person["hero_img"]}" alt="">'
+    insta_html = instagram_links_html(person.get('instagram_posts', []))
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,7 +101,7 @@ def build_page(slug, person, products_data):
 {tldr_items(person["tldr"])}
     </ul>
   </div>
-
+{insta_html}
 {sections_html}
 
   <div class="share-bar">
